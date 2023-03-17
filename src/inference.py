@@ -122,7 +122,7 @@ def main(input_path, output_path):
 
     final_df = pd.DataFrame(list(zip(validation_df.ID, section_name_list, section_text_list)), columns =['TestID', 'SystemOutput1', 'SystemOutput2'])
 
-    final_df.to_csv(output_path)
+    final_df.to_csv(output_path, index=False)
 
 if __name__ == "__main__":
     print("Let's get ready to rumble!")

@@ -2,7 +2,7 @@
 import csv
 import os
 
-filepath = "../results.csv"
+filepath = "../taskA_NUS-IDS_run1.csv"
 
 
 # Check that the file path exists
