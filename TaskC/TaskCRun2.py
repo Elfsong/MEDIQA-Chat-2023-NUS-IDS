@@ -54,8 +54,8 @@ if __name__=="__main__":
         writer.writerow(header)
 
         for eid in eid2note:
-     #       if eid!="D2N136":
-     #           continue
+            #if eid!="D2N132":
+            #    continue
             print ()
             print ("Processing "+eid)
             note = eid2note[eid]
@@ -65,15 +65,15 @@ if __name__=="__main__":
             cleanconv = removeDuplicates(conv)
             print ("After Duplicate Removal "+str(len(cleanconv)))
             
-            fout = open (eid+".tmp2","w")
-            for cl in conv:
-                fout.write(cl.strip()+"\n")
-                fout.flush()
-            fout.write("========================\n")
-            for cl in cleanconv:
-                fout.write(cl.strip()+"\n")
-                fout.flush()
-            fout.close()
+            #fout = open (eid+".tmp2","w")
+            #for cl in conv:
+            #    fout.write(cl.strip()+"\n")
+            #    fout.flush()
+            #fout.write("========================\n")
+            #for cl in cleanconv:
+            #    fout.write(cl.strip()+"\n")
+            #    fout.flush()
+            #fout.close()
 
 
             tempstr=""

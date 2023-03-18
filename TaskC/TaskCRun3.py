@@ -8,7 +8,7 @@ Created on Wed Mar  1 10:41:44 2023
 
 import csv
 import sys
-from ConvGenerator import getConversationFromReport, removeDuplicates
+from ConvGenerator3 import getConversationFromReport, removeDuplicates
 
 IDCOL="encounter_id"
 SRCID="note"
@@ -54,8 +54,8 @@ if __name__=="__main__":
         writer.writerow(header)
 
         for eid in eid2note:
- #           if eid!="D2N136":
- #               continue
+            if eid!="D2N136":
+                continue
             print ()
             print ("Processing "+eid)
             note = eid2note[eid]
@@ -65,15 +65,15 @@ if __name__=="__main__":
             cleanconv = removeDuplicates(conv)
             print ("After Duplicate Removal "+str(len(cleanconv)))
 
-#            fout = open (eid+".tmp","w")
-#            for cl in conv:
-#                fout.write(cl.strip()+"\n")
-#                fout.flush()
-#            fout.write("========================\n")
-#            for cl in cleanconv:
-#                fout.write(cl.strip()+"\n")
-#                fout.flush()
-#            fout.close()
+            fout = open (eid+".tmp3","w")
+            for cl in conv:
+                fout.write(cl.strip()+"\n")
+                fout.flush()
+            fout.write("========================\n")
+            for cl in cleanconv:
+                fout.write(cl.strip()+"\n")
+                fout.flush()
+            fout.close()
 
             tempstr=""
             for cl in cleanconv:

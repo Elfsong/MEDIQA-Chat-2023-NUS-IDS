@@ -115,8 +115,8 @@ def removeDuplicates(lines):
 #####################
 
 
-nextact_tokenizer_dir="./trained_models/t5spact/tokenizer"
-nextact_model_dir="./trained_models/t5spact/model"
+nextact_tokenizer_dir="Elfsong/t5spact"
+nextact_model_dir="Elfsong/t5spact"
 nextact_tokenizer = AutoTokenizer.from_pretrained(nextact_tokenizer_dir)
 nextact_model = T5ForConditionalGeneration.from_pretrained(nextact_model_dir)
 nextact_model.to(device)
@@ -150,8 +150,8 @@ def cleanNP(nps):
     return newnps
         
 
-gen_tokenizerdir="./trained_models/t5doctalk/tokenizer"
-gen_dialogmodeldir="./trained_models/t5doctalk/model"
+gen_tokenizerdir="Elfsong/t5doctalk"
+gen_dialogmodeldir="Elfsong/t5doctalk"
 gen_tokenizer = AutoTokenizer.from_pretrained(gen_tokenizerdir)
 gen_model = T5ForConditionalGeneration.from_pretrained(gen_dialogmodeldir)
 gen_model.to(device)
@@ -165,7 +165,7 @@ def getNextUtterance(input_string, **generator_args):
 
 ######
 datokenizer = AutoTokenizer.from_pretrained("t5-large")
-ddialog_model_dir="./trained_models/t5dact/model"
+ddialog_model_dir="Elfsong/t5dact"
 dialog_act_model = T5ForConditionalGeneration.from_pretrained(ddialog_model_dir).to(device)
 act_types=["COMMISSIVE", "DIRECTIVE", "INFORM", "QUESTION"]
 
