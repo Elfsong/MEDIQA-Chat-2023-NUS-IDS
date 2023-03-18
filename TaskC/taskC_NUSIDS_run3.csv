@@ -1,0 +1,2615 @@
+TestID,SystemOutput
+D2N128,"Doctor: Good afternoon, ma'am. Before we begin, I just need to confirm some information about
+Patient: Good afternoon, doctor. How old are you?
+Doctor: Good afternoon, ma'am. How old are you?
+Patient: I'm forty nine. How old are you?
+Doctor: Good, and what seems to be the problem today?
+Patient: Well, I've had this arthritis for a while now, and it's been
+Doctor: How long has this arthritis been going on?
+Patient: It's been a while now, but it's been flaring up a
+Doctor: I'd like to talk to you about it.
+Patient: Yeah, I've had some joint pain, especially in my elbows.
+Doctor: How long has this been going on?
+Patient: It's been a little while now.
+Doctor: When was your last episode?
+Patient: Um, it was about three months ago.
+Doctor: Okay.
+Patient: Yeah, I had gout then, but that has been under control.
+Doctor: Have you been taking anymedication for your psoriasis?
+Patient: I'm still taking colchicine?
+Doctor: Yes, I see.
+Patient: Yes, I take it twice a day as needed for flare ups of my g
+Doctor: How much colchicine do you take?
+Patient: I take about 0.6 M G twice a day.
+Doctor: Okay.
+Patient: I take it as needed for flare ups of my gout.
+Doctor: Do you take it as needed?
+Patient: Yes, I take it twice a day.
+Doctor: Okay, I will prescribe you a stronger version.
+Patient: Okay, what is the name of the stronger version?
+Doctor: It is called aspirin. Is it stronger than the original?
+Patient: Yes, it is stronger.
+Doctor: Okay.
+Patient: Yes, I feel some edema and inflammation in the right olecran
+Doctor: Is there any pain when you try to palpate the olecranon
+Patient: Yes, I feel some tenderness when I try to palpate the bursa.
+Doctor: Okay, let me examine your elbow.
+Patient: Okay.
+Doctor: What is the condition of your elbow?
+Patient: It is a little bit swollen and it looks like it is inflame
+Doctor: Okay, let me take a look.
+Patient: Okay.
+Doctor: What is the heart rate?
+Patient: It is normal. Is there any abnormal heart rhythm?
+Doctor: No.
+Patient: Okay.
+Doctor: Any pain in the bowel movement?
+Patient: No.
+Doctor: Any swelling in the bowels?
+Patient: No.
+Doctor: Any pain in the limbs?
+Patient: No.
+Doctor: Any swelling?
+Patient: No.
+Doctor: Any pain when you move your legs?
+Patient: No.
+Doctor: Okay.
+Patient: I'm here for a follow up for my gout.
+Doctor: Okay.
+Patient: Yes.
+Doctor: What about your arthritis?
+Patient: I have arthritis in my right elbow.
+Doctor: What kind of treatments have you had for this?
+Patient: I've taken about a sixth of a M G.
+Doctor: Okay, we'll prescribe you meloxicam twice a day as needed for flare
+Patient: Okay, I'll take fifteen M G once a day for my pain and swelling."
+D2N129,"Doctor: Hello, miss. How are you doing?
+Patient: I am doing well. I recently started working at a bakery.
+Doctor: How are your diabetes and high blood pressure?
+Patient: They are both uncontrolled. My sugar levels have been fluctuating recently due to my change in
+Doctor: I see. I see you are trying to improve your diet. Is there anything you can
+Patient: I am trying to eliminate all the sweets.
+Doctor: Are you taking yourhistory as prescribed?
+Patient: Yes, I am taking them as directed. I have not missed any doses.
+Doctor: Have you been sleeping well?
+Patient: Yes, I have been sleeping well. I can sleep for about eight hours straight.
+Doctor: Okay, let's get you checked for type two diabetes and high blood pressure.
+Patient: Okay.
+Doctor: Do you have any other medical conditions that I should know about?
+Patient: I have type two diabetes and high blood pressure.
+Doctor: Okay.
+Patient: I recently started working at a bakery.
+Doctor: How are your sugar numbers?
+Patient: They have been fluctuating recently, which I attribute to my change in diet. I am trying
+Doctor: Have you had any thoughts of self harm or suicidal thoughts?
+Patient: No, I have not had any thoughts of self harm or suicidal thoughts.
+Doctor: Okay.
+Patient: Thank you.
+Doctor: Okay.
+Patient: I have normal blood pressure.
+Doctor: How about your pulse?
+Patient: I have a good pulse. Is there any heart murmur?
+Doctor: No. I will take a look.
+Patient: Okay.
+Doctor: Do you have any heart murmurs?
+Patient: No.
+Doctor: How about any gallops or rubs?
+Patient: No.
+Doctor: Any wheezing or rales?
+Patient: No.
+Doctor: Any chest pain?
+Patient: No.
+Doctor: Any shortness of breath?
+Patient: No.
+Doctor: Okay, let's check your blood sugar.
+Patient: Okay.
+Doctor: How's your blood pressure?
+Patient: It's normal. Is there any problem?
+Doctor: It looks like your hemoglobin A1c is elevated.
+Patient: Okay.
+Doctor: How is your grip strength?
+Patient: It's about the same.
+Doctor: I'd like to prescribe you ten M G of lisinopril
+Patient: Yes, I'll take that once a day.
+Doctor: Okay, I'll write you a prescription for insulin.
+Patient: Okay, I'll take that.
+Doctor: Do you take it twice a day?
+Patient: Yes, I do.
+Doctor: How about diet? Do you eat sweets?
+Patient: Well, it's been uncontrolled. I'm still taking metformin twice
+Doctor: How long have you been taking it?
+Patient: I take ten M G once a day. Is that enough?
+Doctor: Is there anything else you can do?
+Patient: I have been eating more sweets lately.
+Doctor: I see. I will ask you some questions about your blood sugar.
+Patient: Okay.
+Doctor: How are you managing your diabetes?
+Patient: I am still taking Metformin twice a day, but I have been eating more sweet
+Doctor: Okay.
+Patient: They have been uncontrolled. My last blood test showed that my A1c was elevated."
+D2N130,"Doctor: Hello, miss. How are you feeling today?
+Patient: I'm having joint pain.
+Doctor: What kind of joint pain?
+Patient: It's more like a stiffness in my left elbow.
+Doctor: How long have you had this pain?
+Patient: It's been a while now.
+Doctor: I see.
+Patient: Yeah, it has been.
+Doctor: Have you had any recent seizures?
+Patient: No, not recently. My last seizure was about a year ago.
+Doctor: Are you still taking Keppra?
+Patient: Yes, I am.
+Doctor: How are you feeling about your depression?
+Patient: I'm feeling down and stressed.
+Doctor: I'm sorry to hear that.
+Patient: I've been going to therapy for this for a while now.
+Doctor: How's your depression?
+Patient: No.
+Doctor: Okay.
+Patient: I have been having this pain in my left elbow.
+Doctor: I see. I'll ask you some questions about your depression and anxiety. I'm
+Patient: Okay.
+Doctor: Do you have any thoughts of selfharm or suicidal thoughts?
+Patient: No.
+Doctor: Okay.
+Patient: I have been taking Keppra.
+Doctor: How has the therapy been?
+Patient: No.
+Doctor: Okay.
+Patient: What is the reason for the reevaluation?
+Doctor: I have a few questions. Is there anything that is bothering you?
+Patient: I have been having some nasal congestion. I think it is due to the pollen in my
+Doctor: Is it worse when you are outside?
+Patient: Yes.
+Doctor: How about when you are inside?
+Patient: How about when I am outside?
+Doctor: How about when you are sleeping?
+Patient: I sleep well.
+Doctor: How about when you are exercising?
+Patient: I don't have any shortness of breath when I exercise.
+Doctor: Any pain when you bend or extend your arm?
+Patient: No, it's just the pain when I bend and extend my arm.
+Doctor: Okay, let's take a look at your x rays.
+Patient: What does that x ray show?
+Doctor: It looks like your left elbow has erythema and edema.
+Patient: What does that mean?
+Doctor: Is there any injury?
+Patient: No, it looks like my elbow is swollen.
+Doctor: Okay.
+Patient: I don't know if it's a fracture or not.
+Doctor: Is it a radial pulse?
+Patient: Yes.
+Doctor: Okay.
+Patient: I am sixty years old.
+Doctor: Do you have any medical conditions that I should know about?
+Patient: No, I do not.
+Doctor: I think it's caused by repetitive trauma. I'd like to start you on
+Patient: I'm taking meloxicam.
+Doctor: I'd like you to start taking it fifteen M G once a day.
+Patient: Okay.
+Doctor: I'd also like you to take a pillow to rest your arm on.
+Patient: Okay.
+Doctor: I'll ice the area.
+Patient: Okay.
+Doctor: I'll also ice the area. What else can I do?
+Patient: I've been using a pillow to rest my arm on.
+Doctor: I see. What kind of pillows do you use?
+Patient: I use a memory foam pillow. I also like to ice the area.
+Doctor: Okay.
+Patient: I have been taking Keppra for my pain.
+Doctor: How are you doing on Keppra?
+Patient: I am doing well.
+Doctor: I see here that you are taking 500 M G twice a day.
+Patient: Yes.
+Doctor: I will refill your prescription today.
+Patient: Okay.
+Doctor: I will start you on the Lexapro.
+Patient: Okay."
+D2N131,"Doctor: Good afternoon, ma'am. Before we begin, I just need to confirm some background information
+Patient: Good afternoon, doctor. Sure.
+Doctor: Good, so, what brings you in today?
+Patient: Well, I've been having high blood pressure for a while now, and it'
+Doctor: Well, it's out of control lately.
+Patient: Yeah, I've been trying to do newhistory or diet changes to help with it.
+Doctor: Are you taking anymedication s?
+Patient: I'm taking Norvasc.
+Doctor: Do you have any other medical conditions that I should know about?
+Patient: I had a kidney transplant a few years ago.
+Doctor: How is the transplant going?
+Patient: It went well. Is there anything I can do to improve the outcome?
+Doctor: Is there anything you can do to improve your health?
+Patient: Thank you.
+Doctor: I am so sorry to hear that.
+Patient: I have been having high blood pressure for a long time, but it has been out of
+Doctor: I am sorry to hear that. I am going to prescribe you some medicine that will help you
+Patient: I had a kidney transplant a few years ago. How is everything going?
+Doctor: I am sorry to hear that. Do you have any chest pain or shortness of breath?
+Patient: No.
+Doctor: Okay.
+Patient: I had a kidney transplant on my left side.
+Doctor: Okay.
+Patient: I have a scar on my left side from the transplant.
+Doctor: Okay. Let me take a look.
+Patient: Sure.
+Doctor: Do you have any symptoms?
+Patient: No.
+Doctor: Okay.
+Patient: I have a question for you. Is there any problem with my heart?
+Doctor: Is there any murmur?
+Patient: Yes, there is.
+Doctor: How long does the murmur last?
+Patient: It lasts for about two to six seconds.
+Doctor: Do you feel any pain when you hear it?
+Patient: No. Is it sharp or dull?
+Doctor: It is sharp. It is not a loud sound.
+Patient: Okay.
+Doctor: Okay.
+Patient: I am doing well.
+Doctor: How are you taking your medicines?
+Patient: I am taking them as directed.
+Doctor: Are you taking them as directed?
+Patient: Yes.
+Doctor: How much are you taking?
+Patient: I take about twenty five M G twice a day to help bring my blood pressure down.
+Doctor: Are you taking it for any other reasons?
+Patient: No, I am just taking it for my health.
+Doctor: How are you doing with it?
+Patient: I have been taking some herbal remedies.
+Doctor: Okay.
+Patient: I have been taking them for a while now."
+D2N132,"Doctor: Hello, miss Lee. How are you feeling today?
+Patient: I'm having a lot of pain.
+Doctor: Is the pain radiating down your legs?
+Patient: No, it's just in my back.
+Doctor: Okay.
+Patient: What kind of medicine are you taking?
+Doctor: Ibuprofen?
+Patient: Is that the only medicine I am taking?
+Doctor: Is there anything else?
+Patient: No, I am not taking anything else.
+Doctor: Do you have any other medical conditions that I should know about?
+Patient: No, I do not.
+Doctor: Okay, let's go over your back.
+Patient: Okay.
+Doctor: I see that you can move your leg without pain.
+Patient: Yes.
+Doctor: Okay.
+Patient: What does that mean?
+Doctor: It means that you have a lumbar spine fracture.
+Patient: Okay. Let me go get my back checked.
+Doctor: What does the x ray report show?
+Patient: It shows no obvious signs of acute fracture.
+Doctor: Okay.
+Patient: I will continue taking Motrin.
+Doctor: Okay. I will ask you to take it three times a day with food.
+Patient: Okay.
+Doctor: I will follow up with you as needed.
+Patient: Okay.
+Doctor: Do you take the Motrin?
+Patient: Yes, I take it three times a day with food."
+D2N133,"Doctor: Hello, miss Thompson. How are you doing today?
+Patient: I'm doing well. I've been swimming more and trying to be more active.
+Doctor: Have you had any pain in your right knee?
+Patient: No. I've had bad pain in it.
+Doctor: I see.
+Patient: I had a carpal tunnel release done a couple years ago.
+Doctor: How is your wrist feeling?
+Patient: It feels a lot better now.
+Doctor: Have you been able to do full range of motion?
+Patient: Yes.
+Doctor: Okay.
+Patient: What about depression?
+Doctor: Well, it's a chronic condition.
+Patient: Yeah, I have depression.
+Doctor: How long have you had this pain?
+Patient: I don't know, but I have had pain in this knee for a while now
+Doctor: How is your knee feeling today?
+Patient: I am having some pain.
+Doctor: I am sorry to hear that. I will have to take a look at it.
+Patient: Okay.
+Doctor: Is there any swelling in your legs?
+Patient: No.
+Doctor: Okay, I'll check your heart rate and rhythm.
+Patient: Okay.
+Doctor: Okay.
+Patient: I am feeling good.
+Doctor: How about your body?
+Patient: I am feeling good about my body.
+Doctor: How about your legs?
+Patient: I am feeling good about my legs.
+Doctor: How about your arms?
+Patient: I am feeling good about my arms.
+Doctor: Okay.
+Patient: I want to stretch my arms.
+Doctor: Okay. How long have you been doing this?
+Patient: I have been doing it for about a week now.
+Doctor: Okay.
+Patient: I am feeling better.
+Doctor: Okay.
+Patient: It has been a couple weeks now.
+Doctor: Have you had any other symptoms?
+Patient: No.
+Doctor: Have you had any other imaging done on this knee?
+Patient: I had x rays taken recently.
+Doctor: Okay.
+Patient: They said it was normal, but I did have some discomfort.
+Doctor: What did they prescribe?
+Patient: They gave me some Ibuprofen.
+Doctor: How much did they give you?
+Patient: They gave me six hundred M G four times a day with food.
+Doctor: Okay.
+Patient: What do you recommend?
+Doctor: I would like to see if she continues her current workout routine once her knee is feeling better
+Patient: Yes, I will do that.
+Doctor: What about any other activities?
+Patient: I like to swim freestyle laps.
+Doctor: How long have you been swimming?
+Patient: I haven't been in a while.
+Doctor: Have you had any injuries to the knee?
+Patient: No, I haven't.
+Doctor: Have you had any x rays taken of the knee?
+Patient: Yeah, I had them done recently. They showed no injury, but I did have some discomfort
+Doctor: I see, can you take some Ibuprofen for the pain?
+Patient: Yes, I can.
+Doctor: Okay, so you're on a stable treatment plan?
+Patient: Yes, I'm following the same treatment plan. Is there anything else I can do
+Doctor: I'd like to see if you'd like to continue swimming once your knee is
+Patient: Yes, I'd like to do that.
+Doctor: How's your pain today?
+Patient: It's better now, thank you.
+Doctor: Have you been swimming in the pool lately?
+Patient: Yeah, I've been. I've been doing it more and more lately.
+Doctor: That's good.
+Patient: Yeah, it's been good.
+Doctor: I'd like to see you continue your currenthistory s as long as your knee is
+Patient: I'd like to swim more regularly once my knee feels better.
+Doctor: I see. Did you have any recent x rays taken?
+Patient: I should continue swimming once my knee is feeling better.
+Doctor: I see. What else are you doing?
+Patient: I've been taking my usual medicines as usual."
+D2N134,"Doctor: Hello, miss. How are you feeling today?
+Patient: I'm feeling tired and lacking a lot of energy.
+Doctor: What else are you experiencing?
+Patient: I have swollen elbow joints, body aches, a bullseye
+Doctor: Okay.
+Patient: I haven't been able to eat much. I haven't had
+Doctor: What have you been able to eat?
+Patient: I've been eating bland foods like crackers. I don't like them very much
+Doctor: Have you had any fevers?
+Patient: No.
+Doctor: Have you been able to control your type two diabetes?
+Patient: Yes. My sugars have been okay.
+Doctor: Are you taking any medicines for your hypertension?
+Patient: I am taking metformin. Is that the only medicine I am taking?
+Doctor: Yes, that is correct.
+Patient: Yes, I am also taking some blood pressure medicine.
+Doctor: Okay.
+Patient: Yes, I do. I have been taking my blood pressure at home and it is good.
+Doctor: Okay.
+Patient: I am avoiding salty foods and taking lisinopril. Is
+Doctor: Is this helping?
+Patient: Yes, it is.
+Doctor: Okay.
+Patient: It is good. I am monitoring it at home.
+Doctor: I will take a look. I will also take a look at your diet. I
+Patient: Okay.
+Doctor: Do you have any fever or chills?
+Patient: No.
+Doctor: Any nausea or vomiting?
+Patient: No.
+Doctor: Okay.
+Patient: No.
+Doctor: Any abdominal pain or diarrhea?
+Patient: No.
+Doctor: Okay, let me check your musculoskeletal system.
+Patient: Okay.
+Doctor: I see here that you have swelling and pain to palpation of elbow joints in both your
+Patient: Yes, I do.
+Doctor: Is there any other problem?
+Patient: I have a rash on my left side of my stomach.
+Doctor: Is it a bullseye shape?
+Patient: I got a bite on my arm when I was last here.
+Doctor: I see. Let me take a look.
+Patient: I got a blood test today.
+Doctor: What does that mean?
+Patient: It looks like my hemoglobin A one c is abnormal.
+Doctor: Okay.
+Patient: I am going to take the medicine as prescribed.
+Doctor: How long have you been taking the doxycycline?
+Patient: It has been about three weeks now.
+Doctor: Okay.
+Patient: I have been taking it twice a day.
+Doctor: How long have you been taking it?
+Patient: Okay.
+Doctor: I will also order a lipid panel to make sure no changes are needed.
+Patient: Okay.
+Doctor: Do you have ahistory of diabetes and high blood pressure?
+Patient: Yes.
+Doctor: Okay.
+Patient: No. I have noticed that my sugar levels have been fluctuating.
+Doctor: Have you been taking your metformin as directed?
+Patient: Yes.
+Doctor: Have you been able to monitor your blood sugar levels at home?
+Patient: Yes.
+Doctor: Okay.
+Patient: I have noticed that my blood sugar levels have been elevated a few times.
+Doctor: I will order a blood test to check your blood sugar.
+Patient: Okay.
+Doctor: Do you have any other medical conditions that I should know about?
+Patient: I have type two diabetes and high blood pressure. Is this a new issue for me
+Doctor: Yes, it is. I am looking at your labs and it looks like your blood sugar
+Patient: I have been taking my metformin regularly. I have noticed that my blood sugar is not
+Doctor: Have you been able to control your blood sugar levels?"
+D2N135,"Doctor: Hello, miss. How are you feeling today?
+Patient: I'm feeling really lightheaded, I'm seeing spots in my vision, and I
+Doctor: I see. I'm sorry to hear that.
+Patient: I went to the E D, and they told me I had high blood sugar.
+Doctor: What did they do?
+Patient: They gave me IV fluids. Did they tell me to get back to eating a normal
+Doctor: Okay. Are you staying with family during the holidays?
+Patient: Yes, I am. I am going to spend the holidays with my family.
+Doctor: That is wonderful. I am so happy for you. I am so sorry to hear that you
+Patient: Thank you. I am having trouble returning to my normal diet. I have been eating more sweet
+Doctor: Are you having any symptoms of high blood sugar?
+Patient: I am not having any symptoms of high blood sugar. I want to make sure that it is
+Doctor: Are you taking anymedication s?
+Patient: I am taking the ones that they prescribed.
+Doctor: How are you taking them?
+Patient: I am taking them once a day.
+Doctor: Are you taking them as directed?
+Patient: Yes, I am taking them as directed. I also need to get into a routine and
+Doctor: How are you feeling?
+Patient: No. I am not having any chest pain or shortness of breath.
+Doctor: Any abdominal pain or burning when you go to the bathroom?
+Patient: No.
+Doctor: Any fever or chills?
+Patient: No.
+Doctor: Any heart issues?
+Patient: Any heart issues?
+Doctor: Any heart rhythm issues?
+Patient: No.
+Doctor: Any heart palpitations?
+Patient: No.
+Doctor: What medicines are you taking?
+Patient: I am taking Metoprolol twenty five M G twice a day. Is
+Doctor: Are you experiencing any shortness of breath?
+Patient: No.
+Doctor: Any chest pain?
+Patient: No.
+Doctor: Any fever?
+Patient: No.
+Doctor: Any pain in your genitourinary tract?
+Patient: No.
+Doctor: Okay, let's examine your lungs.
+Patient: Okay.
+Doctor: How are your lungs?
+Patient: They are clear.
+Doctor: Okay.
+Patient: I don't feel any distress.
+Doctor: Okay. What about your general appearance?
+Patient: Okay.
+Doctor: Let me see if it is enlarged.
+Patient: Yes, it is.
+Doctor: Is it tender?
+Patient: No, it's not.
+Doctor: Okay.
+Patient: Okay.
+Doctor: I see here that you have an elevated blood glucose and hemoglobin A one C levels
+Patient: Yes, that's correct.
+Doctor: Okay, let's run some tests and get a metabolic panel done.
+Patient: Okay, I'd like to do that.
+Doctor: Let me know what the results are.
+Patient: I have a few more labs to do, but I'm doing fine.
+Doctor: What are you taking for your diabetes?
+Patient: I'm taking Metformin.
+Doctor: How much Metformin are you taking?
+Patient: I take about five hundred M G twice a day. Is there anything else I can
+Doctor: Do you have to change your diet?
+Patient: Yes, I do.
+Doctor: How much do you take for your heart disease?
+Patient: I take about forty M G twice a day.
+Doctor: Do you have any other symptoms?
+Patient: No, I don't have any.
+Doctor: Do you take any othermedication s?
+Patient: Yes, I take Protonix.
+Doctor: Okay, I see.
+Patient: Yes, I take forty M G of it every day.
+Doctor: Okay, and what else are you taking?
+Patient: I take Metoprolol for my heart problems.
+Doctor: How much Metoprolol do you take?
+Patient: I take some herbal remedies."
+D2N136,"Doctor: Hello, miss Sullivan. How are you doing today?
+Patient: I'm having joint pain. Where is it?
+Doctor: It's in both of your knees. Did you do any exercises to help the pain
+Patient: I've been doing stair workouts. I thought it was building muscle on my knee
+Doctor: Do you have any pins and needles in your feet or swelling in your legs?
+Patient: No.
+Doctor: Any fever or chills?
+Patient: No.
+Doctor: Okay, let's get some background information from you.
+Patient: Sure.
+Doctor: Let's start with your age.
+Patient: I'm thirty three.
+Doctor: How are you feeling today?
+Patient: I'm having joint pain.
+Doctor: Have you been doing any exercises to help the pain?
+Patient: Yeah.
+Doctor: Okay.
+Patient: What kind of exercises have I been doing?
+Doctor: Do you have any other medical conditions that I should know about?
+Patient: I have high blood pressure.
+Doctor: I see. I will have you take Norvasc five M G a day to control
+Patient: Okay.
+Doctor: Okay.
+Patient: What kind of medicines do I take?
+Doctor: I see here that you have ahistory of Arthralgias. Do
+Patient: Okay.
+Doctor: Let's start with your constitution.
+Patient: I don't have any fever or chills.
+Doctor: Any chest pain or swelling?
+Patient: No.
+Doctor: Any shortness of breath?
+Patient: No.
+Doctor: Okay, let's examine your left knee.
+Patient: Okay, here's a look.
+Doctor: I see some erythema and edema.
+Patient: Okay.
+Doctor: I will have you bend your knee and see if you can extend it.
+Patient: Okay.
+Doctor: Okay.
+Patient: I have this pain in my left knee. I want to get it checked out by Doctor
+Doctor: What kind of pain?
+Patient: I have this swelling in my left knee. I want to get it checked out by Doctor
+Doctor: Is there any swelling?
+Patient: Yes, there is.
+Doctor: Okay, let me take a look.
+Patient: Okay, here are four views of my left knee.
+Doctor: What do you see?
+Patient: I see a small effusion. Is there any swelling?
+Doctor: Okay.
+Patient: I want to see how my knees look.
+Doctor: Is there any pain?
+Patient: No.
+Doctor: Okay.
+Patient: Okay.
+Doctor: Do you feel any pain while breathing?
+Patient: No. I feel like my heart is beating normally. Is that normal?
+Doctor: Okay, let's do an autoimmune panel.
+Patient: Okay.
+Doctor: What are you taking for arthritis?
+Patient: I am taking Norvasc five M G once a day.
+Doctor: Okay.
+Patient: How is my blood sugar?
+Doctor: It is a little high today, but it is under control. Are you taking Norvas
+Patient: Yes, I am. I take five M G of Norvasc every day based on
+Doctor: I will order a blood test and order a blood sugar test for you to be done
+Patient: Okay.
+Doctor: I will also order a lipid profile for you.
+Patient: Okay.
+Doctor: I see here that your hemoglobin A1C is slightly elevated, but your glucose levels
+Patient: Okay.
+Doctor: I'm going to send you a report in the next couple weeks.
+Patient: Okay.
+Doctor: Thank you.
+Patient: I have been taking Norvasc five M G daily based on my home monitoring.
+Doctor: I will continue that.
+Patient: Okay.
+Doctor: I will monitor your blood sugar levels at home.
+Patient: Okay.
+Doctor: I will also monitor your hemoglobin A one C level. It is slightly elevated today.
+Patient: Okay.
+Doctor: I will also monitor your blood glucose levels. They are under control.
+Patient: Okay.
+Doctor: Your hemoglobin A1C is slightly elevated today.
+Patient: Okay.
+Doctor: Your blood glucose levels have been well under control.
+Patient: Yes."
+D2N137,"Doctor: Good afternoon, ma'am. What brings you in today?
+Patient: Well, I've had high blood pressure in the past, and I've had depression
+Doctor: Have you had any surgeries in the past?
+Patient: Yeah, I had a right carpal tunnel release done about two years ago.
+Doctor: Okay, let me take a look.
+Patient: Yeah, it looks like my depression is improving.
+Doctor: Have you been taking yourhistory s as prescribed?
+Patient: Yes, I have.
+Doctor: Have you been going to therapy?
+Patient: Yes, I go about once a week.
+Doctor: How has this helped you?
+Patient: It's helped me a lot. I'm sleeping well at night.
+Doctor: Have you been getting the full eight hours of sleep?
+Patient: Yes, I've been getting that.
+Doctor: Have you had any thoughts of self harm or harming others?
+Patient: Have you been checking your blood pressure at home?
+Doctor: Have you noticed any changes in your blood pressure?
+Patient: Yeah, I have noticed that it has been fluctuating lately. I have not had a
+Doctor: Have you had a normal reading in a couple weeks?
+Patient: No, I have not.
+Doctor: I would like to see you every week.
+Patient: I have been going to therapy every week.
+Doctor: That is good. It helps you manage your symptoms.
+Patient: I will do the same. I will write down the notes.
+Doctor: Thank you. How are you sleeping?
+Patient: I am sleeping well. I get eight hours of sleep every night.
+Doctor: I would like to get a reading from you in the next couple weeks.
+Patient: Okay.
+Doctor: What is the reason for the reading?
+Patient: I have high blood pressure.
+Doctor: What other symptoms do you have?
+Patient: I have a lot of headaches. Do you have any other symptoms?
+Doctor: Do you have any heart problems?
+Patient: No.
+Doctor: Okay.
+Patient: What about my heart?
+Doctor: I see that your grip strength is equal.
+Patient: Yes.
+Doctor: Are you neurologically intact?
+Patient: Yes.
+Doctor: Okay.
+Patient: I am feeling good.
+Doctor: Are you able to breathe normally?
+Patient: Yes.
+Doctor: Okay.
+Patient: Okay.
+Doctor: Let's see what we can do for your heart.
+Patient: Okay.
+Doctor: Let's start with your blood work.
+Patient: Okay.
+Doctor: Your blood pressure is elevated. Your laboratory tests are all within normal limits.
+Patient: What can we do about this?
+Doctor: We'll need to monitor your blood pressure at home. We'll also need to get
+Patient: What's the name of the medicine?
+Doctor: Lisinopril?
+Patient: What dose should I take?
+Doctor: How long should I take it?
+Patient: I'd say one month.
+Doctor: Do you have any symptoms that you'd like to report?
+Patient: No, I'm doing fine. I'm not having any symptoms.
+Doctor: How long have you had this pain?
+Patient: Two years now.
+Doctor: How are you feeling today?
+Patient: I am doing well.
+Doctor: How long have you had this carpal tunnel?
+Patient: Two years now. I have not had any symptoms.
+Doctor: I will keep an eye on you at home and see if your symptoms return.
+Patient: Okay.
+Doctor: I will also follow up in one month.
+Patient: Okay.
+Doctor: How are you doing?
+Patient: I am doing well two years after my surgery. I am asymptomatic. Is
+Doctor: I am happy to hear that. I will contact you if your symptoms return."
+D2N138,"Doctor: How are you doing today?
+Patient: I am doing well.
+Doctor: Do you have any allergies?
+Patient: Yes, I do. I do tolerate almonds and cashews.
+Doctor: Okay, let's talk about your allergies.
+Patient: I've been weaning off my inhalers. I use albuterol before
+Doctor: Okay, so you're taking less Wixela.
+Patient: Yes, I'm taking less. I only take it once a day, three times
+Doctor: Okay, I see.
+Patient: I feel like it's working well.
+Doctor: I'd like to see you take it more frequently, especially in the spring, summer,
+Patient: Yeah, I take it three days out of the week when I'm working outside.
+Doctor: How much do you take on those days?
+Patient: I take it twice a day as prescribed.
+Doctor: How do you feel?
+Patient: It works well for me.
+Doctor: How often do you take it?
+Patient: I take it about three days out of the week.
+Doctor: Okay.
+Patient: Yes, I do.
+Doctor: How are you managing your allergies?
+Patient: I've been taking Zyrtec three days a week when I'm working
+Doctor: I see. I'll reduce your dose so you only need one inhalation once
+Patient: Okay.
+Doctor: Thank you.
+Patient: I have been taking Wixela for my asthma and allergic rhinitis.
+Doctor: How are you using it?
+Patient: I am taking it inhalationally. I take it once a day, three times
+Doctor: How much are you taking?
+Patient: I am taking one dose a day, three times a week. The rest of the
+Doctor: Do you need any urgent care or emergency room visits for your asthma or allergies?
+Patient: No.
+Doctor: Okay.
+Patient: How about food allergies?
+Doctor: How about allergens?
+Patient: I am allergic to peanuts. I developed contact hives when the peanuts met my
+Doctor: How do you protect yourself from these allergens?
+Patient: I wear long sleeves and gloves. I change my gloves between each cleaning.
+Doctor: Do you have an EpiPen with you at all times?
+Patient: Yes. I always have it with me.
+Doctor: Do you avoid any tree nuts?
+Patient: Yes. I try to avoid them whenever I can.
+Doctor: Do you ingest any nuts?
+Patient: No. I ate some almonds without any issue.
+Doctor: Do you have any allergies to tree nuts?
+Patient: No. I don't have any allergies to peanuts. I have developed hives
+Doctor: Do you wear long sleeves and gloves?
+Patient: Yes, I do. I change my gloves between cleanings.
+Doctor: Okay.
+Patient: I also wear long sleeves.
+Doctor: Okay. I will change your gloves between cleanings.
+Patient: Okay.
+Doctor: Do you smoke?
+Patient: Yes.
+Doctor: Do you vape?
+Patient: Yes.
+Doctor: How much?
+Patient: I take about two puffs of the Wixela Inhub every day.
+Doctor: How many milligrams do you take per day?
+Patient: I take about two hundred and fifty milligrams.
+Doctor: Okay. I will give you a puff of EpiPen as needed.
+Patient: Okay.
+Doctor: Do you take it in the morning and evening?
+Patient: Yes. I take it in the morning and evening.
+Doctor: Okay. I will give you a puff twice daily.
+Patient: Okay.
+Doctor: Okay.
+Patient: I had a severe reaction to peanuts.
+Doctor: Okay.
+Patient: I also took Montelukast sodium.
+Doctor: Yes. Do you mean like allergies to peanuts?
+Patient: Yes.
+Doctor: Okay. And what about other foods?
+Patient: Yes, I am allergic to peanuts.
+Doctor: Okay. And what about your nose?
+Patient: Oh, I have a problem with that too.
+Doctor: Okay.
+Patient: Yeah.
+Doctor: What kind?
+Patient: I have hay fever.
+Doctor: Okay.
+Patient: I also have asthma.
+Doctor: Okay.
+Patient: How long have I had this asthma?
+Doctor: I would like to get you in for a follow up visit.
+Patient: Okay.
+Doctor: I see here that you have moderate persistent asthma.
+Patient: Yes, I am. I have been taking it twice a day.
+Doctor: I will keep the Wixela in case it doesn't work well.
+Patient: Okay.
+Doctor: Will you refill your EpiPen today?
+Patient: Yes, I will.
+Doctor: Thank you, I see you have a good A C T score of twenty one today.
+Patient: Yes, that's good.
+Doctor: Thank you, I see your spirometry test today was better than it was in
+Patient: Yes, it was better than it was in two thousand nine.
+Doctor: That's good to hear.
+Patient: I take it three times a week when I'm working outside.
+Doctor: Okay, sounds good.
+Patient: Yes, I've been taking it as needed.
+Doctor: I'd like to run some more tests in four months to see if your asthma is
+Patient: Will I be able to go back?
+Doctor: Yes, you'll be able to.
+Patient: Okay, I'll do that.
+Doctor: Thank you, I'll keep you on hand if you need to.
+Patient: Will I be able to use it as needed?
+Doctor: Yes, you'll be fine. What about your albuterol?
+Patient: Yes, I'll keep using that as needed.
+Doctor: I'd like to run some more tests in four months, so come back in four months
+Patient: Yes, it was better than it was in two weeks ago."
+D2N139,"Doctor: How are you doing today, sir?
+Patient: I'm doing well, thank you.
+Doctor: I see, you have ahistory of high blood pressure, and you had an acute episode
+Patient: Yeah, that's right.
+Doctor: I see, you went to the E D in March, and you had palpitations.
+Patient: Yeah, I had a panic attack.
+Doctor: Did you drink any alcohol during the panic attack?
+Patient: I had a few cups of coffee, but I didn't have anything else?
+Doctor: Okay.
+Patient: What did I do during the panic attack?
+Doctor: I was walking on my treadmill. Did I take any medicine?
+Patient: No, I didn't take anything.
+Doctor: Okay.
+Patient: I have a lot of blood pressure issues.
+Doctor: Okay.
+Patient: I also had a sudden episode of palpitations.
+Doctor: Okay. Let me see what we can do about this.
+Patient: Okay.
+Doctor: Do you have any familyhistory of high blood pressure?
+Patient: Yes.
+Doctor: I see. I'm going to order you a Benicar H C T from
+Patient: Okay.
+Doctor: I see. I will order Benicar H C T 40 M G/25 M G
+Patient: Okay.
+Doctor: Do you take it every day?
+Patient: Yes.
+Doctor: How much do you take?
+Patient: I take about twenty M G of Amlodipine.
+Doctor: Okay.
+Patient: Do I need to take more?
+Doctor: Yes, I think you'll need to take another one.
+Patient: Okay.
+Doctor: Do you have a recomandă blood pressure reading?
+Patient: Yes, I have a reading of one hundred and forty six.
+Doctor: Okay.
+Patient: Okay.
+Doctor: I will schedule you for a follow up in two weeks to complete a basic metabolic panel
+Patient: Okay.
+Doctor: I will also check your blood pressure.
+Patient: Okay.
+Doctor: Okay.
+Patient: Okay.
+Doctor: Okay.
+Patient: Okay.
+Doctor: Okay.
+Patient: Okay."
+D2N140,"Doctor: Hello, miss. How are you feeling today?
+Patient: I'm having some stomach pain.
+Doctor: I see. I see you were last seen in August with flares of stomach pain and was
+Patient: I had a stomach problem. I was also diagnosed with I B S. I was treated
+Doctor: Did you take any medicine for this?
+Patient: I had a prescription for Bentyl that I got from the E D. I
+Doctor: Okay.
+Patient: What did they tell me to take it as needed?
+Doctor: They told me to take a fiber supplement daily, and probiotics to help with gas
+Patient: What do you recommend?
+Doctor: Citrucel?
+Patient: Yes, I take that every day.
+Doctor: How much do you take?
+Patient: I take it like a teaspoon.
+Doctor: Okay.
+Patient: I also took some probiotics to help with gas and bloating.
+Doctor: Did you take them daily?
+Patient: Yes, I did.
+Doctor: I see. I see you also took a low dose fiber supplement, Citrucel,
+Patient: I also take Bentyl for cramping.
+Doctor: How much Bentyl do you take?
+Patient: I take it up to four times a day.
+Doctor: Okay.
+Patient: No, I don't drink.
+Doctor: How about soda?
+Patient: Any diarrhea?
+Doctor: I'll take a look.
+Patient: Okay.
+Doctor: Let me see what you have.
+Patient: Sure.
+Doctor: I see that your heart beats normally.
+Patient: Okay. Can you please check my bowel movements?
+Doctor: Yes, I can. Are you able to move your bowel movements?
+Patient: Yes.
+Doctor: How are you feeling?
+Patient: I have this bloating and pain in my tummy.
+Doctor: Is it worse when you are stressed?
+Patient: Yes.
+Doctor: How about eating?
+Patient: I don't eat very often, and I don't sleep well at night.
+Doctor: Okay.
+Patient: I have been taking Elavil for my I B S.
+Doctor: Okay.
+Patient: I take twenty five M G at night.
+Doctor: Okay. I will adjust the dose if needed.
+Patient: Okay.
+Doctor: I will also send you a MyChart message in one month for any side effects of
+Patient: Okay.
+Doctor: Okay.
+Patient: Okay.
+Doctor: I have suggested that you reduce your greasy fatty foods and alcohol consumption.
+Patient: Okay."
+D2N141,"Doctor: Welcome back to the clinic, Mr. Watson.
+Patient: Thank you.
+Doctor: How are you doing, sir?
+Patient: I'm doing fine, thank you. How long have you been following up with me?
+Doctor: I've been following up with you since May of two thousand and ten.
+Patient: Yes, that's correct.
+Doctor: How are you doing today?
+Patient: I'm doing better.
+Doctor: How long has this been going on?
+Patient: It's been about eight or ten years now.
+Doctor: Okay.
+Patient: Yeah, I've had some progressive gait impairment, cognitive impairment, and decreased bladder control
+Doctor: How old are you?
+Patient: I'm eight or ten.
+Doctor: What brings you in today?
+Patient: I've had a lot of problems with my walking, my cognitive abilities, and my
+Doctor: Let's start with your gait.
+Patient: What does that mean?
+Doctor: Well, it means that you have impaired balance, cognitive impairment, and decreased bladder control.
+Patient: Yeah, that's what I was told.
+Doctor: Okay, I see.
+Patient: Yes, I'm walking better, but I still have some walking impairment.
+Doctor: What is his diagnosis of hydrocephalus?
+Patient: I don't know, but I've had progressive gait impairment for the last eight
+Doctor: Okay.
+Patient: Sure.
+Doctor: I see here that you have a neurological impairment.
+Patient: Yes.
+Doctor: What is your impairment?
+Patient: I have a lot going on. I have a lot of pain in my legs.
+Doctor: What is the pain?
+Patient: I have a lot of pain in my legs. Is it a constant pain?
+Doctor: Is it a constant pain?
+Patient: Yes.
+Doctor: How about any headaches, recent falls, or mood swings?
+Patient: No.
+Doctor: Okay.
+Patient: I have been having some cognitive impairment.
+Doctor: I will have you come in and see if you can walk again.
+Patient: Okay.
+Doctor: I am sorry to hear that.
+Patient: What about fever?
+Doctor: No fever?
+Patient: No.
+Doctor: Any weight loss?
+Patient: No.
+Doctor: Any shortness of breath?
+Patient: No.
+Doctor: Okay.
+Patient: I can see the shunt site.
+Doctor: How is the shunt site?
+Patient: It is clean, dry, and intact.
+Doctor: Okay.
+Patient: Okay.
+Doctor: Okay. I see that your right frontal horn span is four and a half cm
+Patient: Yes.
+Doctor: How about the third ventricular contour?
+Patient: I don't know.
+Doctor: What about the right frontal region?
+Patient: I have a tiny amount of blood in that area.
+Doctor: Okay.
+Patient: I will go get a CT scan done.
+Doctor: What did the radiologist say?
+Patient: He said that there is no extra axial fluid collection and there is substantial small vessel ische
+Doctor: Okay, let me take a look.
+Patient: Okay, I'll do it.
+Doctor: What did you score on the M M S E?
+Patient: I scored twenty six out of thirty.
+Doctor: Did you do any calculations?
+Patient: I did. I was unable to remember any memory words with cuing or multiple choice.
+Doctor: Okay.
+Patient: I did not have an assistive device. I was tested without one. I had a
+Doctor: Okay.
+Patient: What did they score me on?
+Doctor: They scored me twenty six out of thirty on the M M S E when I was tested with
+Patient: Okay.
+Doctor: How did you score without an assistive device?
+Patient: I got a score of six to eight.
+Doctor: How about the balance of your score?
+Patient: Um, it was twelve to sixteen.
+Doctor: How would you rate your mental status?
+Patient: I'd say it's improving a little bit.
+Doctor: Okay, I'd like to do a driver's safety evaluation on you.
+Patient: Okay, I'd like to do that.
+Doctor: What is the score of the driver's safety evaluation?
+Patient: It's usually less than one point five out of ten.
+Doctor: How would you rate your speed of movement?
+Patient: I'd say it's about a four out of ten right now.
+Doctor: How would you rate your ability to pass a driver's safety evaluation?
+Patient: I'd say it's less than a five out of ten right now.
+Doctor: How long before you can pass such a test?
+Patient: It could be anywhere from nine to twelve months.
+Doctor: Okay.
+Patient: I've had some patients who surprise me by improving enough over nine to twelve months that they
+Doctor: How long will that last?
+Patient: It depends. I don't think it will be long before I pass a driver'
+Doctor: How about your ability to drive safely?
+Patient: I don't think so. I haven't been able to drive a
+Doctor: I'd like to get you a C T scan done.
+Patient: Okay.
+Doctor: Okay.
+Patient: I have been having some difficulty with my movement.
+Doctor: I don't think so. Is there any improvement?
+Patient: Yes, I've noticed it for about nine to twelve months now.
+Doctor: How long have you had this hydrocephalus?
+Patient: It's been about three months now.
+Doctor: Have you changed the setting of the shunt?
+Patient: No, I'd like to keep it at two thousand and one."
+D2N142,"Doctor: How are you feeling today?
+Patient: I am feeling pretty good.
+Doctor: How old are you?
+Patient: I am seventy two.
+Doctor: Do you have any other medical conditions that I should know about?
+Patient: I have high blood pressure. Do you know what medicines I should be taking?
+Doctor: Well, at your last visit on April sixteen, your blood pressure was one hundred and thirty out
+Patient: I was prescribed hydrochlorothiazide twelve five M G by mouth once
+Doctor: Okay, so you were prescribed hydrochlorothiazide twelve five M G by
+Patient: Yes, that's correct. How many times a day do I take it?
+Doctor: It's taken once a day.
+Patient: Okay, I take it twice a day.
+Doctor: Do you have any side effects?
+Patient: I have had headaches, and I feel like my left ear is swooshing
+Doctor: Okay.
+Patient: Is this normal?
+Doctor: Is there any other medical issue that I should know about?
+Patient: No, I don't think so.
+Doctor: Do you have any familyhistory of alcohol abuse?
+Patient: I don't think so. I will ask my mom if she has diabetes or high
+Doctor: Do you have any other medical problems in the family?
+Patient: What about high blood pressure or heart disease?
+Doctor: Do you know of anyone with high blood pressure or heart disease?
+Patient: No, I don't know of anyone with either.
+Doctor: Okay.
+Patient: I don't know of anyone with a lot of these things.
+Doctor: I'm going to run some tests and see if you have any of these symptoms.
+Patient: Okay.
+Doctor: Okay. Let me take a look.
+Patient: Okay.
+Doctor: Do you take them both daily?
+Patient: Yes.
+Doctor: Okay.
+Patient: I don't have any fever or chills.
+Doctor: Okay. Let me check your chest.
+Patient: Sure.
+Doctor: Do you feel any shortness of breath or difficulty breathing?
+Patient: No.
+Doctor: Okay.
+Patient: No.
+Doctor: Do you feel any pain when you press the chest against the wall?
+Patient: No.
+Doctor: Okay.
+Patient: No.
+Doctor: Okay.
+Patient: No.
+Doctor: Okay.
+Patient: Any anxiety or depression?
+Doctor: No.
+Patient: Okay.
+Doctor: Let me check your heart rhythm.
+Patient: Okay. Is it regular?
+Doctor: Is there any murmur?
+Patient: No.
+Doctor: Any chest pain or tightness?
+Patient: No.
+Doctor: Any shortness of breath?
+Patient: No.
+Doctor: Any shortness of breath while walking?
+Patient: No.
+Doctor: Any heart problems?
+Patient: No.
+Doctor: Any alcohol use?
+Patient: Yes.
+Doctor: Okay.
+Patient: I have high blood pressure.
+Doctor: How is your cholesterol?
+Patient: It is normal.
+Doctor: How about your blood pressure?
+Patient: I don't remember having high blood pressure.
+Doctor: Okay.
+Patient: I don't drink at all.
+Doctor: Okay.
+Patient: I will start taking the injectable form of naltrexone on May seventeen.
+Doctor: Okay.
+Patient: I have been taking lisinopril for ten M G a day
+Doctor: Okay.
+Patient: I will take hydrochlorothiazide for twelve five M G daily.
+Doctor: Okay.
+Patient: Yes, I will.
+Doctor: Okay, let's go over your blood pressure.
+Patient: Okay, I'll do that."
+D2N143,"Doctor: Hello, miss. How are you feeling today?
+Patient: I am feeling a little uncomfortable. I am also having a change in the discharge and
+Doctor: What is the color and consistency of your discharge?
+Patient: It is a light yellowish color. It is very clear.
+Doctor: Do you have any fever or chills?
+Patient: No.
+Doctor: Okay.
+Patient: I had an abnormal Pap Smear when I was twenty.
+Doctor: Okay. Have you had any other Pap Smears since then?
+Patient: I have. I had my last one about six months ago.
+Doctor: Have you had any changes in your discharge since then?
+Patient: No. I have had a change in the way it flows. I also have a
+Doctor: Have you noticed any odor in your vaginal region?
+Patient: No.
+Doctor: Let me take a look.
+Patient: Okay.
+Doctor: I see here that you have a Spectrum Staph infection.
+Patient: What does that mean?
+Doctor: It means that you have a bacteria infection. Is this your first infection?
+Patient: No, this is my third.
+Doctor: Okay.
+Patient: Yeah.
+Doctor: Okay.
+Patient: I have normal discharge.
+Doctor: Okay.
+Patient: I don't have any color or odor.
+Doctor: Okay. Let me take a look at your pelvic area.
+Patient: Okay.
+Doctor: Any external lesions?
+Patient: No.
+Doctor: Okay. Let me check your genitalia.
+Patient: Okay.
+Doctor: Let me see if there is any swelling or any other mass.
+Patient: Okay. What do you mean?
+Doctor: I mean, any pain or discomfort?
+Patient: No.
+Doctor: Any other medical issues?
+Patient: No.
+Doctor: Okay, let's get started.
+Patient: Sure.
+Doctor: Let's see what we can do today.
+Patient: Sure.
+Doctor: Let's start with a full spectrum STD test.
+Patient: Sure.
+Doctor: Okay.
+Patient: Thank you.
+Doctor: Do you have any familyhistory of sexual partner issues?
+Patient: No.
+Doctor: Okay.
+Patient: I have ahistory of gonorrhea.
+Doctor: Okay.
+Patient: I have ahistory of multiple partners.
+Doctor: Okay. Let's do some lab testing.
+Patient: Okay.
+Doctor: Let's see what we can find.
+Patient: Okay.
+Doctor: I see here that you have a high risk of gonorrhea.
+Patient: Yes."
+D2N144,"Doctor: Hello, sir. How are you doing today?
+Patient: I'm doing okay.
+Doctor: How old are you?
+Patient: I'm seventy two.
+Doctor: What brings you in today?
+Patient: I have rheumatoid arthritis.
+Doctor: I see. Let me see what we can do for you today.
+Patient: I have had right knee pain for a while now.
+Doctor: I am sorry to hear that.
+Patient: When was the last time I saw you?
+Doctor: It was on March fourth two thousand and one. I think it was twenty one. I am
+Patient: Oh, no. I have not been to P T in a long time.
+Doctor: How long have you been wearing it?
+Patient: I have been wearing it for about a week now.
+Doctor: Okay.
+Patient: How is it helping?
+Doctor: It is helping a little bit.
+Patient: Okay.
+Doctor: What are the risks of infection from the injection?
+Patient: Historically, it's less than one percent. I'd like to try to keep
+Doctor: Okay, so we'll inject some triamcinolone and lidocaine.
+Patient: Okay, I'm okay with that.
+Doctor: What is the amount of triamcinolone?
+Patient: It's eighty M G.
+Doctor: Okay.
+Patient: I'm going to get a shot of that.
+Doctor: Okay.
+Patient: Okay.
+Doctor: Let's start with the right knee.
+Patient: Okay.
+Doctor: Let's access the knee through the lateral approach.
+Patient: Okay.
+Doctor: Let's start with a little bit of fluid, um, three M L at first
+Patient: Okay.
+Doctor: Let's prep the right knee in a standard fashion, then inject some 80 M G
+Patient: Okay.
+Doctor: Do you have any other symptoms?
+Patient: No, I don't have anything else.
+Doctor: Do you have any other concerns about the procedure?
+Patient: No, I don't have anything.
+Doctor: Do you have any allergies to foods?
+Patient: Okay, I'd like to do that.
+Doctor: What color is the biopsy?
+Patient: It's a clear fluid.
+Doctor: What is the diagnosis?
+Patient: I have rheumatoid arthritis. How do I manage this?
+Doctor: I would like to start you on some medicines.
+Patient: What kind of medicines?
+Doctor: I am talking about antiinflammatories. Are you taking any other medicines?
+Patient: Yes.
+Doctor: Do you have any known allergies tomedication s?
+Patient: No.
+Doctor: Do you smoke?
+Patient: No.
+Doctor: Okay, I see you're on Xeljanz XR.
+Patient: Yes, I'm taking eleven M G of it every day.
+Doctor: How about Celebrex?
+Patient: Yes, I'm taking two hundred M G of that every day.
+Doctor: Yes, we'll do a C M P test and monitor periodically.
+Patient: Okay, yes, I'd like to get an x ray of my right knee
+Doctor: Okay, we can do that.
+Patient: Okay, I'll go see my P T.
+Doctor: I'll send you an x ray of the right knee.
+Patient: Okay, I'll do that.
+Doctor: Will you go to P T?
+Patient: Yes, I'd like to.
+Doctor: Okay, I'll get an x ray done.
+Patient: Yes, I'll be going in next week.
+Doctor: Okay, let's get some x rays done.
+Patient: Okay, I'll go ahead."
+D2N145,"Doctor: Hello, miss. How are you feeling today?
+Patient: I am feeling good. My perioral dermatitis is under control.
+Doctor: How has your perioral dermatitis progressed?
+Patient: It has not completely resolved yet. I was applying doxycycline twice a day
+Doctor: Have you seen any improvement in your skin?
+Patient: No, it has not worsened.
+Doctor: How are you moisturizing your skin?
+Patient: I use the sulfacetamide wash twice a day.
+Doctor: Do you notice any dryness?
+Patient: No.
+Doctor: How about any other products?
+Patient: No.
+Doctor: How about Cetaphil lotion or soap?
+Patient: No.
+Doctor: Okay.
+Patient: No.
+Doctor: Do you use any lotions or products?
+Patient: No. I use the MetroCream after I use the sulfacetamide
+Doctor: Do you wash your hands after using the Sulfacetamide?
+Patient: Yes.
+Doctor: Do you use it twice daily?
+Patient: Yes.
+Doctor: Do you have any other allergies tohistory s?
+Patient: No.
+Doctor: I will order some Doxycycline cream for you to apply topically twice daily.
+Patient: Okay.
+Doctor: I will also order some antihistamines for you to take internally.
+Patient: Okay.
+Doctor: I will also order some antiinflammatories for you to take internally.
+Patient: Okay. What is the name of the medicine?
+Doctor: It is called a nebulizer. It is a small tube like device
+Patient: Okay.
+Doctor: What kind of medicine do you take for this?
+Patient: I take doxycycline.
+Doctor: How long have you been taking it?
+Patient: I have been taking it for about a year now.
+Doctor: I see. I see that you decreased your dose of doxycycline per your pharmacist
+Patient: Yes, that is correct. It may have stagnated my symptoms.
+Doctor: I am sorry. I am sorry. I am sorry. I am sorry. I am sorry
+Patient: Thank you.
+Doctor: I am sorry to hear that. I am going to prescribe you doxycycline.
+Patient: Okay.
+Doctor: I would recommend that you continue twice daily application until you reach full resolution.
+Patient: Okay.
+Doctor: I would also recommend that you reduce your application to once a day for an additional week.
+Patient: Okay.
+Doctor: I will prescribe you a prescription for Tacrolimus.
+Patient: Will I continue using Sulfacetamide face wash?
+Doctor: Yes, you can use it once a day.
+Patient: I will also try Bruder mask as needed.
+Doctor: Okay.
+Patient: I have rosacea on my face.
+Doctor: I see. I will prescribe you a cleanser and mask.
+Patient: Okay.
+Doctor: I will also prescribe you a moisturizer.
+Patient: Okay.
+Doctor: I will also prescribe you a face wash.
+Patient: Yes, I will be using it twice daily.
+Doctor: I will call you if your symptoms worsen.
+Patient: Okay.
+Doctor: I will schedule a follow up appointment for you in four weeks.
+Patient: Okay.
+Doctor: I will also prescribe you doxycycline for the perioral dermatitis
+Patient: Yes, I will."
+D2N146,"Doctor: Do you have any medical conditions that run in your family that I should know about?
+Patient: Well, my dad has type two diabetes.
+Doctor: How about any other medical conditions?
+Patient: Well, my mom and dad both have gallstones.
+Doctor: Okay.
+Patient: Yeah, that's right.
+Doctor: What brings you in today?
+Patient: I have a fever. Is it high or low?
+Doctor: Is it high or low?
+Patient: Low.
+Doctor: Okay, let's see what we can do.
+Patient: Okay.
+Doctor: What is your blood pressure?
+Patient: It is one hundred eight and eighty eight millimeters high.
+Doctor: Okay.
+Patient: I don't think so.
+Doctor: Okay.
+Patient: No.
+Doctor: Okay.
+Patient: I do feel some thickening in the bile duct.
+Doctor: Is it normal?
+Patient: Yes.
+Doctor: How about your heart rate?
+Patient: It's about sixty eight beats per minute.
+Doctor: How about your oxygen saturation? How is it?
+Patient: It's ninety nine percent on room air.
+Doctor: Okay.
+Patient: Okay.
+Doctor: How is your breathing?
+Patient: My breathing is normal.
+Doctor: How about your breathing rate? How fast is it?
+Patient: I breathe like sixteen breaths per minute.
+Doctor: Okay.
+Patient: Okay. I want to get some oxygen in my lungs.
+Doctor: How much oxygen do you have in your lungs?
+Patient: I have ninety nine percent.
+Doctor: Let's start with your blood work.
+Patient: Okay.
+Doctor: How is your body temperature?
+Patient: I am taking a little bit of water. Is that normal?
+Doctor: Yes.
+Patient: Okay.
+Doctor: Let me take a look.
+Patient: Okay.
+Doctor: What does the ultrasound show?
+Patient: It looks like my gallbladder is inflamed.
+Doctor: What does that mean?
+Patient: It looks like my gallbladder has been clogged up with stones.
+Doctor: Okay, that's good news.
+Patient: What does that mean?
+Doctor: Well, it means that you have some mild cholecystitis with gall
+Patient: Yes, I have been.
+Doctor: I see here that you have type two diabetes. Is there any improvement with diet and exercise
+Patient: Yes, I am managing it.
+Doctor: How long have you been experiencing this type of symptoms?
+Patient: It has been a few weeks now.
+Doctor: Have you been following up with your primary care physician for this?
+Patient: Yes, I have one. Is it connected to my phone?
+Doctor: Yes, it is.
+Patient: Okay.
+Doctor: How are you managing your diabetes?
+Patient: I am taking care of it with diet and exercise.
+Doctor: I would like to follow up with you before your surgery to make sure everything is going well.
+Patient: Yes, I will do that.
+Doctor: Do you have any other issues?
+Patient: I have type two diabetes.
+Doctor: How are you managing this?
+Patient: I am taking my insulin and eating right.
+Doctor: Are you exercising?
+Patient: Yes, I do. How will I know if my sugar is under control?
+Doctor: I will check your blood sugar.
+Patient: Okay."
+D2N147,"Doctor: Good afternoon, sir.
+Patient: Good afternoon, doctor.
+Doctor: Let's start with your shoulder injury, please.
+Patient: What happened?
+Doctor: I think you were playing pick up football when you got tackled a couple times and
+Patient: Yeah, I landed on my right shoulder.
+Doctor: How old are you?
+Patient: I'm sixty eight.
+Doctor: How's your shoulder feeling?
+Patient: I'm having a lot of pain. I can't touch it to my
+Doctor: How about your neck? Any neck pain?
+Patient: No, I don't have any neck pain.
+Doctor: Any joint pain?
+Patient: No, I don't have any joint pain.
+Doctor: Any neck or shoulder pain?
+Patient: No, I don't have any fever or chills. Any headache?
+Doctor: Any neck or joint pain?
+Patient: No, I don't have any of that.
+Doctor: Any headaches since the injury?
+Patient: No, I haven't had a headache in a long time.
+Doctor: Okay.
+Patient: Yeah.
+Doctor: Okay.
+Patient: I have a right shoulder pain.
+Doctor: Okay. Let me see what we can do about this.
+Patient: What kind of symptoms do I have?
+Doctor: I don't have any fever or chills. Do you have any neck pain?
+Patient: No.
+Doctor: Okay, I'll take a look.
+Patient: Okay.
+Doctor: Any swelling or redness?
+Patient: No.
+Doctor: Okay, let's examine your right shoulder.
+Patient: Okay.
+Doctor: Let me take a look at your x rays.
+Patient: Okay.
+Doctor: I see that your right shoulder has an acute acromioclavicular joint
+Patient: Yes.
+Doctor: I see that you have a fracture in this shoulder.
+Patient: Yes.
+Doctor: What kind of fracture?
+Patient: I think it's an acute acromioclavicular joint fracture.
+Doctor: Let me take a look at your heart rate.
+Patient: Okay, I'm ninety five percent on room air.
+Doctor: Let me take a look at your chest.
+Patient: Okay, I can feel the radial artery pulse.
+Doctor: Okay.
+Patient: I can feel my heart beating fast.
+Doctor: Do you have any swelling?
+Patient: No.
+Doctor: Any pain when you try to bend your neck?
+Patient: No.
+Doctor: Any pain when you try to bend your shoulder?
+Patient: No.
+Doctor: Okay, so your x rays show an acute acromioclav
+Patient: Yes, that's correct.
+Doctor: I'd like to get a C T scan done to evaluate this shoulder.
+Patient: Thank you.
+Doctor: I'd like to get you in a sling and prescribe you meloxi
+Patient: Okay.
+Doctor: I'll give you fifteen M G of meloxicam once a day.
+Patient: Okay.
+Doctor: Okay.
+Patient: I'm having a lot of pain."
+D2N148,"Doctor: Good afternoon, sir. Can you tell me more about your back pain?
+Patient: Well, it started about four months ago, when I was moving boxes out of my son’
+Doctor: What kind of boxes were you moving?
+Patient: I was moving boxes out of my son's college dorm.
+Doctor: What kind of pain were you experiencing?
+Patient: I was having a lot of pain in my lower back.
+Doctor: When did this pain start?
+Patient: It started about four months ago. I was moving boxes out of my son’s college do
+Doctor: I see. Can you tell me more about your pain?
+Patient: I was moving boxes out of my son’s dorm. I noticed tingling
+Doctor: I see. Your right toes are tingling.
+Patient: Yeah. I felt like my legs were going to give out.
+Doctor: Did the tingling sensation go away on its own?
+Patient: It did after about an hour.
+Doctor: Did you have any weakness in your legs when carrying heavy objects?
+Patient: Yes, I do.
+Doctor: Do you feel any sharp pain in your lower back when you turn a certain way or roll
+Patient: About four months now.
+Doctor: I see. I see you were referred to the urgent care and had an M R I
+Patient: Yeah, I was there. I was moving boxes out of my son’s college dor
+Doctor: How old are you?
+Patient: I am fifty seven.
+Doctor: Good, and what seems to be the problem today?
+Patient: Okay.
+Doctor: I'm going to do a right knee total knee arthroplasty.
+Patient: Yes, I've had it done twice before, in spring of two thousand and one and
+Doctor: How's the pain now?
+Patient: It's still there, but I've had some improvement.
+Doctor: How's your back feeling?
+Patient: It's still a little sore.
+Doctor: Any fever or chills?
+Patient: No.
+Doctor: Okay.
+Patient: No.
+Doctor: Let's examine your lower back.
+Patient: Sure.
+Doctor: What do you feel?
+Patient: I can't bend or extend my leg straight.
+Doctor: I'll have you take some x rays of your lower back.
+Patient: Okay.
+Doctor: Do you have any pain in the lower back?
+Patient: No.
+Doctor: Any pain while bending or extending your lower back?
+Patient: No.
+Doctor: Any pain while bending your neck?
+Patient: No.
+Doctor: Okay.
+Patient: Okay.
+Doctor: I see here that your heart rate is sixty eight beats per minute.
+Patient: Yes.
+Doctor: Okay, let me take a look at your oxygen saturation.
+Patient: Okay.
+Doctor: It looks like you have a 95 % oxygen saturation on room air.
+Patient: Yeah.
+Doctor: How about your heart rate?
+Patient: It's about sixty eight BPM.
+Doctor: Okay, let me take a look.
+Patient: Okay.
+Doctor: Let me see if there is any disc herniation.
+Patient: Okay.
+Doctor: What are you taking for your pain?
+Patient: I am taking meloxicam.
+Doctor: Okay.
+Patient: I am taking fifteen M G of it.
+Doctor: Okay.
+Patient: I will continue with P T.
+Doctor: What is the name of the P T?
+Patient: It is called Physical Therapy.
+Doctor: Okay.
+Patient: I will go."
+D2N149,"Doctor: How are you feeling today?
+Patient: I am feeling pretty weak.
+Doctor: I am sorry to hear that. I will take a look at your medicalhistory and see
+Patient: I have diabetes, high blood pressure, and asthma.
+Doctor: Do you have any other conditions that I should know about?
+Patient: I have knee pain.
+Doctor: I see. I'll ask your medicalhistory about your pain.
+Patient: I'm taking metformin and Norvasc.
+Doctor: Are you experiencing any fever or chills?
+Patient: No.
+Doctor: Any shortness of breath or blood in your lungs?
+Patient: No.
+Doctor: Any bleeding gums?
+Patient: No.
+Doctor: Any swelling in your legs?
+Patient: No.
+Doctor: Any bruising?
+Patient: No.
+Doctor: Any chest pain or discomfort?
+Patient: No.
+Doctor: Any shortness of breath or wheezing?
+Patient: No.
+Doctor: Okay.
+Patient: I have normal blood pressure.
+Doctor: Okay. I will take a look at your pulse and see if it is normal.
+Patient: Okay.
+Doctor: Okay.
+Patient: I am breathing normally.
+Doctor: Any wheezing?
+Patient: No.
+Doctor: Okay, let me take a look at your heart sounds.
+Patient: Okay.
+Doctor: Let me hear your systolic murmur.
+Patient: Okay.
+Doctor: Let me examine your abdomen.
+Patient: Sure.
+Doctor: Any wheezing or wheezing sounds?
+Patient: No.
+Doctor: Okay. Let me take a look.
+Patient: Yeah. I can't really breathe.
+Doctor: Have you had any other tests done?
+Patient: I've had an x ray, a C T scan, and blood work
+Doctor: Have you been going to the E R?
+Patient: Yes, I've been.
+Doctor: Have you been taking your medicine as directed?
+Patient: Yes, I've been taking it as directed.
+Doctor: Have you been taking your metformin as well?
+Patient: Yes, I've been taking it twice a day, up to a whopping
+Doctor: How much are you taking?
+Patient: I'm taking about seven hundred M G once a day.
+Doctor: Are you taking it twice a day?
+Patient: I have diabetes.
+Doctor: How long has your blood pressure been low?
+Patient: It's been about three weeks now.
+Doctor: Okay.
+Patient: I'm not feeling well. My blood pressure is really low.
+Doctor: Is this normal?
+Patient: No, it's not normal.
+Doctor: I'd like to get a C T scan done to get a better understanding of
+Patient: Okay.
+Doctor: What kind of medicines are you taking?
+Patient: I take Norvasc.
+Doctor: How long have you been taking it?
+Patient: About a year now."
+D2N150,"Doctor: Good afternoon, sir.
+Patient: Good afternoon, doctor.
+Doctor: How old are you, sir?
+Patient: I'm thirty six. I'm here for a knee injury.
+Doctor: Good, so, it's right here.
+Patient: What happened?
+Doctor: I was playing some pickup soccer games when I felt this knee pop.
+Patient: I was playing a long time ago, but I don't remember the details of what
+Doctor: What happened?
+Patient: I was playing a game of tennis and I tripped over a ball.
+Doctor: I see. Let's see what we can do for you today.
+Patient: I'm having some pain.
+Doctor: How would you rate your pain today?
+Patient: I'd say it's moderate.
+Doctor: Okay.
+Patient: How old are you?
+Doctor: I am sixty years old. I will ask you some questions about your past medicalhistory.
+Patient: Okay.
+Doctor: Do you have any medical problems?
+Patient: No.
+Doctor: Do you work?
+Patient: Yes. I work at a desk.
+Doctor: I see. I'm going to get you in for a physical.
+Patient: Okay.
+Doctor: What seems to be the problem today?
+Patient: I have a limp in my right leg.
+Doctor: Okay.
+Patient: I can't walk on it.
+Doctor: I'll put some orthotics in there.
+Patient: Okay.
+Doctor: What kind of orthotics do you have?
+Patient: I have Lachman orthotics.
+Doctor: Okay. Let me take a look.
+Patient: Okay.
+Doctor: Let me see what we can do here.
+Patient: What do you mean?
+Doctor: I mean, what is the cause of your limp?
+Patient: I have pain in my right leg. I can't bend my leg.
+Doctor: Okay.
+Patient: I can bend my leg about twenty to thirty degrees.
+Doctor: Okay.
+Patient: Is there any pain?
+Doctor: Is there any swelling?
+Patient: Yes, there is some swelling.
+Doctor: Okay.
+Patient: I think I tore my ACL.
+Doctor: What kind of torn ACL?
+Patient: I think it was an A C L tear?
+Doctor: Okay.
+Patient: I'm going to get an M R I of my right knee.
+Doctor: Okay.
+Patient: I'm going to take some medicine for the swelling and pain.
+Doctor: What do you take?
+Patient: I take ice and I wear crutches when I'm walking.
+Doctor: I'd like to get an M R I done so we can see what's going
+Patient: Okay.
+Doctor: What can we do after that?
+Patient: I'm going to keep my knee immobilized until we get the results of my M
+Doctor: Okay.
+Patient: Okay.
+Doctor: I will order an M R I for you.
+Patient: Okay."
+D2N151,"Doctor: Good afternoon, ma'am. Before we begin, can you confirm your age for me,
+Patient: Good afternoon, doctor. I'm thirty three years old.
+Doctor: Good, and what seems to be the problem today, ma'am?
+Patient: Well, I'm having a lot of pain in my right elbow.
+Doctor: How long has this been going on?
+Patient: About four days now.
+Doctor: Okay.
+Patient: No improvement.
+Doctor: What kind of pain are you having?
+Patient: It's been about four days now. I don't know if it's
+Doctor: I'd say it's a seven out of ten at its worst.
+Patient: Yeah, I'd say it's a seven out of ten.
+Doctor: How would you rate the pain today?
+Patient: No, not really.
+Doctor: How has the pain improved?
+Patient: It's still in the same spot.
+Doctor: Is the pain in the same area?
+Patient: Yes.
+Doctor: How old are you?
+Patient: I am seventy years old.
+Doctor: What kind of injuries have you had in the past?
+Patient: I have had a lot of elbow injuries.
+Doctor: I am sorry. I am going to take a look at your elbow.
+Patient: I am not sure. I have been throwing things at my elbow for a long time.
+Doctor: I am sorry. I am going to take a look.
+Patient: Okay.
+Doctor: Do you take any othermedication s?
+Patient: What exactly are you taking?
+Doctor: I am taking some medicine for my arthritis.
+Patient: What kind of medicine?
+Doctor: I am taking antiinflammatories. Is there any change in the dose?
+Patient: No.
+Doctor: How is your breathing?
+Patient: It's normal.
+Doctor: How about your heart rate? How long are you breathing per minute?
+Patient: Well, I'm breathing about eighteen breaths per minute.
+Doctor: How about your oxygen saturation? How is it?
+Patient: It's ninety percent on room air.
+Doctor: Okay, let's take a look at your body temperature. It's ninet
+Patient: How would you rate my pain level?
+Doctor: How much has it increased since your last visit?
+Patient: Well, it's increased by about five pounds.
+Doctor: I'd like to take a look at your pulse.
+Patient: What's my pulse rate?
+Doctor: It's about the same on both sides. Are you breathing normally?
+Patient: Yes, I breathe normally.
+Doctor: How about your chest?
+Patient: Okay.
+Doctor: How is your blood pressure?
+Patient: It's at one hundred percent.
+Doctor: Let's take a look at your body temperature. It's ninety seven
+Patient: Okay.
+Doctor: Okay.
+Patient: Yeah.
+Doctor: Okay.
+Patient: I'm not feeling well.
+Doctor: Is it due to the cold or flu?
+Patient: No, it's just the flu.
+Doctor: I'll take a look at your elbow and see what we can do about it.
+Patient: Okay.
+Doctor: What brings you in today?
+Patient: Yeah.
+Doctor: What can we do about this?
+Patient: I'm going to continue taking mymedication s and walking.
+Doctor: I'd like to order a blood test to see how your sugar is doing.
+Patient: Okay, I'll do that.
+Doctor: I'd like to order a hemoglobin A one c test to get
+Patient: Okay, I'll wait about two weeks.
+Doctor: Okay, we'll see how we're doing.
+Patient: Okay, I'll be back."
+D2N152,"Doctor: Do you have any familyhistory of diabetes?
+Patient: Yes, my family has diabetes.
+Doctor: Okay. Let's talk about your family bakery.
+Patient: My family owns and runs a bakery.
+Doctor: How's it going?
+Patient: It's going well.
+Doctor: How's your pain?
+Patient: It's gone downhill. I'm having some back pain. Is there any
+Doctor: How's your leg feeling?
+Patient: It's a little stiff.
+Doctor: Is there any pain when you lift your leg?
+Patient: No, it's just the straight leg. Is there any pain when I lift my
+Doctor: Any pain when you bend your leg?
+Patient: No, it's just the straight leg.
+Doctor: Any pain when you lift your leg on the right side?
+Patient: Okay.
+Doctor: I can see that your ears, nose, mouth, and throat are clear.
+Patient: Okay. Can you check my right leg?
+Doctor: Sure. Let me take a look.
+Patient: Sure.
+Doctor: Okay.
+Patient: Any pain or discomfort in my ears?
+Doctor: No.
+Patient: Okay. Can you check my nose, mouth, and throat?
+Doctor: Yes, I can do that.
+Patient: Okay, I'll do that.
+Doctor: What will you be taking for your back pain?
+Patient: I'll take a little bit of ibuprofen, but I'
+Doctor: Okay, and I'll prescribe you some Tylenol if you need to
+Patient: Okay, I'll take that.
+Doctor: I'll also order an x ray of your lower back.
+Patient: Okay, what does that x ray show?
+Doctor: It looks like you have a disc issue.
+Patient: Okay.
+Doctor: What will you do for this?
+Patient: I'm going to go see a P T.
+Doctor: Okay.
+Patient: I'm going to take 400 M G of Ibuprofen three times a
+Doctor: Okay.
+Patient: Okay.
+Doctor: How are you doing with your diabetes?
+Patient: I am doing well.
+Doctor: Good.
+Patient: I am taking my metformin as directed.
+Doctor: How often are you taking it?
+Patient: I take it up to three times a day.
+Doctor: How much do you take?
+Patient: I take about four hundred M G.
+Doctor: Will you take it three times a day?
+Patient: Yes, I'll do that. What about exercise?
+Doctor: Will you be doing that?
+Patient: Yes, I'll continue to exercise.
+Doctor: What about your diet?
+Patient: I'll stick to my usual diet.
+Doctor: Okay.
+Patient: I'll also try to exercise.
+Doctor: Will you be able to exercise?
+Patient: Yes, I'll try to eat a balanced diet."
+D2N153,"Doctor: Good afternoon, sir. How old are you?
+Patient: Good afternoon, doctor. How old are you?
+Doctor: I'm sixty eight years old, so that's a good age to be in
+Patient: Good, and what seems to be the problem today, doctor?
+Doctor: Well, I'm having a lot of pain in my right knee.
+Patient: Yeah, it started about two weeks ago, when I stepped off of a curb and
+Doctor: I see, it's right here, on the outside of the knee.
+Patient: Yeah, that's right.
+Doctor: I'll take a look, and see what we can do for you today.
+Patient: Sure.
+Doctor: Let's start with your right knee.
+Patient: I hurt it last night.
+Doctor: What happened?
+Patient: I fell asleep on my right knee.
+Doctor: Okay.
+Patient: I woke up this morning and noticed that my right knee was in a lot of pain
+Doctor: What kind of pain are you having?
+Patient: I'm having a lot of pain when I'm resting my foot on my
+Doctor: Okay.
+Patient: I don't have any pain when I'm at rest and elevated, or when I
+Doctor: Okay.
+Patient: I can do a full squat without pain.
+Doctor: Okay.
+Patient: I have broken my second toe three times over the last ten years.
+Doctor: Okay.
+Patient: I work in sales. I ride a bike for exercise.
+Doctor: Do you have any injuries from riding your bike?
+Patient: I have numbness and tingling in my toes on my right foot
+Doctor: Okay.
+Patient: I feel a slight numbness and tingling in my right tibi
+Doctor: Is there any pain when you try to touch the knee?
+Patient: Is there any pain when I touch the knee with my fingers?
+Doctor: I'd like to take a look at your x rays.
+Patient: Okay.
+Doctor: I see here that you have a mild edema in the right tibi
+Patient: It means that I have some swelling in my right knee.
+Doctor: I'd like to get some imaging done.
+Patient: Okay.
+Doctor: What does the image show?
+Patient: It shows some swelling in the right tibia.
+Doctor: Is there any pulse?
+Patient: Yes.
+Doctor: Any other symptoms?
+Patient: No.
+Doctor: Any pain in your feet?
+Patient: No.
+Doctor: Any swelling in your feet?
+Patient: No.
+Doctor: Okay.
+Patient: I'm having a lot of pain right now.
+Doctor: I see.
+Patient: Okay, I'm going to go see the pain specialist.
+Doctor: I'm sorry to hear that."
+D2N154,"Doctor: Good afternoon, sir. How old are you?
+Patient: Good afternoon, doctor. I'm forty six.
+Doctor: Good, thank you.
+Patient: Good afternoon, doctor.
+Doctor: How old are you, young man?
+Patient: I'm forty six.
+Doctor: Good, so tell me what's going on with you?
+Patient: Well, I'm having a lot of pain in my right heel.
+Doctor: When did this pain start?
+Patient: It started about ten days ago, when I was training for a triathlon.
+Doctor: What kind of exercises do you do in the mornings?
+Patient: I run about ten kilometers in the morning. I try to bike around lunchtime for about
+Doctor: Do you run five days a week?
+Patient: Yeah, I run about five days a week.
+Doctor: How long do you run?
+Patient: I run for about three miles.
+Doctor: Do you bike?
+Patient: I bike on weekends.
+Doctor: Great.
+Patient: Yeah.
+Doctor: I see.
+Patient: Yeah.
+Doctor: Do you take one day off from your exercises?
+Patient: Yeah, I do. I take one day off every now and again.
+Doctor: Do you have any other symptoms?
+Patient: I have this heel pain in my right heel. Is it constant or intermittent?
+Doctor: Is it constant?
+Patient: It's constant.
+Doctor: Okay, let's see what we can do.
+Patient: Okay.
+Doctor: I mean, I feel this severe pain in the Achilles tendon.
+Patient: Oh, wow.
+Doctor: I'll do a x ray right now.
+Patient: Okay.
+Doctor: I see here that you have a positive Thompson test.
+Patient: Yes.
+Doctor: I see here that you have a right leg injury.
+Patient: Yes.
+Doctor: I see here that you have been taking Ibuprofen for pain. I will send
+Patient: Yes.
+Doctor: I will give you three tablets every six hours for pain.
+Patient: Okay.
+Doctor: I will follow up with you in seven to ten days to check on your progress.
+Patient: Okay.
+Doctor: I will also send you a referral for P T to strengthen your right leg.
+Patient: Okay.
+Doctor: I will also give you some pain medicine to help with the pain.
+Patient: Okay.
+Doctor: I will give you three tablets of Ibuprofen every six hours for pain.
+Patient: Okay."
+D2N155,"Doctor: Hello, miss. How are you doing today?
+Patient: I'm doing okay.
+Doctor: Good, thank you. I see that you're here for the evaluation of a non
+Patient: Yes, that's correct.
+Doctor: What happened to cause this?
+Patient: It started about a year ago. It looked like a blister, and then I picked
+Doctor: Okay, so tell me what happened.
+Patient: I picked at it, and then it turned red.
+Doctor: Did you see your P C P?
+Patient: Yes, I saw him, and he prescribed me Keflex.
+Doctor: Okay, so the antibiotics helped, but they didn't help.
+Patient: Yeah, I was last on Keflex about five months ago.
+Doctor: How did that work?
+Patient: It helped a little bit, but it didn't help much.
+Doctor: Did you take any othermedication s?
+Patient: I saw my P C P and they prescribed me Keflex.
+Doctor: How did the antibiotics work?
+Patient: They did improve my symptoms, but they didn't resolve them.
+Doctor: How long ago were you last on Keflex?
+Patient: Um, it was about five months ago.
+Doctor: How long ago were you last prescribed Keflex?
+Patient: No, I don't have any pain.
+Doctor: Any swelling?
+Patient: No, I don't have any swelling.
+Doctor: Okay.
+Patient: Any pain?
+Doctor: No.
+Patient: Okay.
+Doctor: I will examine the wound.
+Patient: Okay.
+Doctor: What size is the wound?
+Patient: It's about one centimeter by two centimeters.
+Doctor: Okay.
+Patient: Yeah.
+Doctor: What color is the slough?
+Patient: It's a yellowish color.
+Doctor: Okay, let me examine it.
+Patient: Okay.
+Doctor: Let me take a look.
+Patient: Okay.
+Doctor: Let me take an x ray of the right foot.
+Patient: Okay.
+Doctor: What does the x ray show?
+Patient: I see some yellow slough that is present with minimal granulation tissue.
+Doctor: Let me take a look at your ankle brachial index.
+Patient: Okay.
+Doctor: It looks like you have a good blood supply to see if we can heal the wound
+Patient: Yes, I think so too.
+Doctor: Do you have a wound that is too large?
+Patient: No, I don't think so.
+Doctor: Do you have a dressing on the wound?
+Patient: No, I don't have anything.
+Doctor: Okay, I see.
+Patient: Okay."
+D2N156,"Doctor: How are you doing today?
+Patient: I am doing okay. Is there anything I can do to help me?
+Doctor: I am going to prescribe you some medicines. How much are you taking?
+Patient: I take Aspirin. I take eighty M G of it every day.
+Doctor: Do you take it twice a day?
+Patient: Yes.
+Doctor: Okay.
+Patient: I want to take Lipitor.
+Doctor: Okay. How about any chest pain?
+Patient: No.
+Doctor: Okay.
+Patient: I have swelling in both legs.
+Doctor: I'll take a look.
+Patient: Okay.
+Doctor: I see here that your E K G is normal sinus rhythm.
+Patient: Yes.
+Doctor: Okay.
+Patient: I have a normal sinus rhythm.
+Doctor: Okay.
+Patient: I have a good R wave progression.
+Doctor: Okay.
+Patient: I think this is due to the changes in my heart rhythm that I expected after my heart attack
+Doctor: What does that mean?
+Patient: It means that my heart is beating slower than usual. I also have a reduced e
+Doctor: What is your ejection fraction?
+Patient: It is three percent.
+Doctor: Okay, let me take a look at your radial artery cath site.
+Patient: What does that mean?
+Doctor: It looks like you have a blood clot.
+Patient: Okay.
+Doctor: Is this your only leg?
+Patient: No.
+Doctor: Is this swelling bilateral?
+Patient: Yes. Is it only on the left side?
+Doctor: Is there any other medicalhistory that I should know about?
+Patient: No.
+Doctor: I'd like to run some tests to see if you have any other medical problems.
+Patient: Okay.
+Doctor: Let's see what we can do.
+Patient: Okay.
+Doctor: What brings you in today?
+Patient: I have this weird feeling in my legs.
+Doctor: Okay.
+Patient: It is under control.
+Doctor: How will you tolerate the Aldactone?
+Patient: I will tolerate it well.
+Doctor: Okay.
+Patient: I will continue taking myhistory s.
+Doctor: What else are you taking?
+Patient: I am taking Lipitor eighty M G a day and Toprol fifty M G
+Doctor: How are your heart symptoms?
+Patient: I have a reduced left ventricular dysfunction and moderate mitral regurgitation.
+Doctor: How was your heart surgery?
+Patient: It went well.
+Doctor: How are you feeling now?
+Patient: I feel fine.
+Doctor: How are you taking the Aldactone?
+Patient: I am taking it well.
+Doctor: Okay.
+Patient: I will be fine.
+Doctor: How long will you be taking it?
+Patient: It will be for about two months.
+Doctor: Will you be able to get a repeat echo?
+Patient: Yes, I will get it in about two months.
+Doctor: How is your heart condition?
+Patient: It is improving over time.
+Doctor: How will you manage your diabetes?
+Patient: I will continue my metformin as prescribed.
+Doctor: Okay.
+Patient: Thank you.
+Doctor: Do you have any other medical conditions that I should know about?
+Patient: I have a few. I'd like to get a referral for nutrition counseling.
+Doctor: Okay.
+Patient: I have a heart condition.
+Doctor: Let me get an echocardiogram done.
+Patient: Okay.
+Doctor: Do you know how that is managed?
+Patient: I have a lot of options. I can take some medicines for it.
+Doctor: Do you know what those are?
+Patient: I know they are called antiinflammatories.
+Doctor: Okay.
+Patient: I have a lot of them in my diet.
+Doctor: Okay. Do you know what they are?
+Patient: I don't know. I don't know what they are. I don't
+Doctor: Okay.
+Patient: Okay.
+Doctor: Do you have any other allergies?
+Patient: No.
+Doctor: Okay.
+Patient: I will follow up as instructed."
+D2N157,"Doctor: Do you have any medical conditions that I should know about?
+Patient: I had a heart attack six months ago. I also have coronary artery disease.
+Doctor: Do you have diabetes?
+Patient: Yes.
+Doctor: Okay.
+Patient: I have ahistory of heart disease.
+Doctor: How long ago did you have a heart attack?
+Patient: About six months ago.
+Doctor: Okay.
+Patient: Yeah.
+Doctor: I'd like to get some more information from you about your medications.
+Patient: Sure.
+Doctor: Do you have any muscle aches?
+Patient: No.
+Doctor: Any swelling?
+Patient: No.
+Doctor: Any pain or tingling?
+Patient: No.
+Doctor: Okay.
+Patient: No.
+Doctor: Any sudden sudden changes in your mood or mood?
+Patient: No.
+Doctor: Okay, let me take a look at your blood pressure.
+Patient: What is my blood pressure?
+Doctor: It is one hundred seven points eighty two.
+Patient: How is my respiratory effort?
+Doctor: Normal.
+Patient: Okay.
+Doctor: I am looking at your lab results and it shows stable creatinine level.
+Patient: Okay. I will take a look.
+Doctor: Okay. Let me take a look.
+Patient: Okay.
+Doctor: No.
+Patient: Okay.
+Doctor: Let me take a look at your blood work.
+Patient: Sure.
+Doctor: Let me take a look at your creatinine level. It is stable.
+Patient: Okay.
+Doctor: Let me take a look at your pulse rate. It is normal. I will take
+Patient: Okay.
+Doctor: How are you managing your diabetes?
+Patient: I am doing well. I am following all myhistory s.
+Doctor: What about your heart murmur?
+Patient: I heard a slight three six ejection murmur on exam.
+Doctor: How is this related to your heart condition?
+Patient: It's not new. I've had it before.
+Doctor: What else have you been taking?
+Patient: I've been taking Aspirin for the last six months.
+Doctor: I see. I'd like to order a repeat of your hemoglobin A1
+Patient: Yes, I'll do that today.
+Doctor: Okay, and I'll send you a referral to your dietitian for diabetes education
+Patient: Okay, I'll do that.
+Doctor: Okay, and I'll also call your primary care physician about your insulin regimen.
+Patient: Okay, I'm also lonely and don't have a support system.
+Doctor: I understand. What is your past medicalhistory?
+Patient: Yes, that's correct.
+Doctor: I see here that you have diabetes as well.
+Patient: I'm taking insulin every day, right?
+Doctor: Are you taking the full amount?
+Patient: Yes, I'm taking it every day.
+Doctor: Do you have a primary care physician?
+Patient: Yes, I have a doctor that I see every day.
+Doctor: Great, thank you.
+Patient: I see Doctor Miller, my nephrologist.
+Doctor: He will be taking your blood work today.
+Patient: Yes, I will.
+Doctor: What is your hemoglobin A1c?
+Patient: It is currently at six points.
+Doctor: What is your goal for your blood sugar?
+Patient: My goal is to have a level of six.
+Doctor: I understand.
+Patient: Okay.
+Doctor: Do you know what insulin you're taking?
+Patient: It's normal.
+Doctor: I'd like to get a refill of your Methotrolol every day and
+Patient: Okay."
+D2N158,"Doctor: Welcome to the clinic.
+Patient: Thank you. What brings you here today?
+Doctor: I have a few questions for you. First, I want to get some background information from
+Patient: What do you mean by that?
+Doctor: Well, it could be anything from diabetes, to asthma, to gastritis.
+Patient: Oh, yeah.
+Doctor: I'd like to get some labs done to check your blood sugar.
+Patient: Okay, what do I need to bring?
+Doctor: I'll need your passport and ID.
+Patient: Okay, I have my passport and ID.
+Doctor: Do you have a fever?
+Patient: No, I don't have a fever.
+Doctor: Any nausea or vomiting?
+Patient: No, I don't have any of that.
+Doctor: Okay.
+Patient: I don't have any pain in the right lower quadrant.
+Doctor: Okay. Let me examine your abdomen.
+Patient: I have some tenderness in the epigastrium.
+Doctor: Okay.
+Patient: I also feel some shortness of breath in my tummy.
+Doctor: Okay.
+Patient: I also feel some tenderness in my tummy.
+Doctor: Is it mild?
+Patient: Yes.
+Doctor: Okay.
+Patient: No.
+Doctor: Any shortness of breath?
+Patient: No.
+Doctor: Any recent asthma attacks?
+Patient: No.
+Doctor: I'd like to order a urine pregnancy test, a C B C, and
+Patient: Okay.
+Doctor: What kind of medicines are you taking right now?
+Patient: I am taking Flovent every day.
+Doctor: I think that will help you with your asthma.
+Patient: Yes, I think so too.
+Doctor: How often do you take it?
+Patient: I take it twice a day.
+Doctor: How much do you take?
+Patient: I take one thousand M G in the morning and one thousand M G at night.
+Doctor: Okay.
+Patient: I will continue taking Flovent daily. Will that help?
+Doctor: Yes, it will.
+Patient: Will I be able to take it twice a day?
+Doctor: Yes, you will be able to. Will this help with your asthma?
+Patient: I take it every day.
+Doctor: How has this helped you?
+Patient: It has helped me a lot. I have not had any recent asthma attacks.
+Doctor: How about any stomach pain?
+Patient: I have had some pain in my stomach for a while now. Is it acute or
+Doctor: Is it chronic?
+Patient: Is it a constant pain?
+Doctor: Is it a constant pain?
+Patient: No, it's more like a dull ache.
+Doctor: How about your asthma?
+Patient: No, I don't have any asthma attacks lately. Is there anything I can do
+Doctor: Okay, I see.
+Patient: Okay.
+Doctor: Okay.
+Patient: I will be back in four weeks."
+D2N159,"Doctor: Hello, miss. How are you feeling today?
+Patient: I'm having a lot of pain in my right hand.
+Doctor: I'm sorry to hear that. Let's see what we can do for you today
+Patient: I'm here for a quick evaluation.
+Doctor: What brings you in today?
+Patient: Yeah, I've had numbness and tingling in it for a
+Doctor: Have you been sleeping well?
+Patient: No, I've been sleeping well.
+Doctor: Have you been taking any medicine for the pain?
+Patient: I've been taking ibuprofen.
+Doctor: Okay.
+Patient: I've been sleeping better.
+Doctor: Okay.
+Patient: How long have I been taking it?
+Doctor: I would like to get some labs done before we start you on it.
+Patient: Okay. What happens when I take it?
+Doctor: I see here that you have numbness and tingling in your first, second
+Patient: Is this normal?
+Doctor: Is this a normal occurrence?
+Patient: Is it a temporary occurrence?
+Doctor: Is it a permanent condition?
+Patient: No, it's permanent.
+Doctor: How would you describe the symptoms?
+Patient: I'd say it's a lot like Tinel's sign.
+Doctor: What does that mean?
+Patient: I'm having a lot more pain in my right hand than my left. Is
+Doctor: Is the pain worse when you bend or extend your wrist?
+Patient: Yes, it gets worse when I bend or extend my wrist.
+Doctor: Okay.
+Patient: Yeah.
+Doctor: What are your treatment options for this?
+Patient: I'm currently taking ibuprofen and wrist splinting at night
+Doctor: Do you take the same amount of ibuprofen every night?
+Patient: Yes, I take about four times a day.
+Doctor: Okay, I'd like to increase that to 600 M G.
+Patient: Okay, I'll do that.
+Doctor: I'd like to order an E M G/Nerve conduction study to see
+Patient: Okay, I'd like to do that."
+D2N160,"Doctor: Good afternoon, sir.
+Patient: Good afternoon, doctor.
+Doctor: I see here that you have a right elbow pain.
+Patient: Yes, that's correct.
+Doctor: What about chest pain?
+Patient: No, I don't have any.
+Doctor: Okay, let's go over your elbow.
+Patient: Okay.
+Doctor: What does it hurt?
+Patient: It hurts when I try to bend and extend my arm. Is there any swelling?
+Doctor: Is there any swelling around the elbow?
+Patient: Yes, there is.
+Doctor: Okay, and I see that you have some bruising.
+Patient: Yes, I do.
+Doctor: Okay, and I also see that your x rays show no fracture or any other
+Patient: Okay, and no bone or joint pain?
+Doctor: Okay, and no swelling?
+Patient: Okay, and no ecchymosis?
+Doctor: Okay, and no fractures or anything?
+Patient: No, nothing like that.
+Doctor: Any other symptoms?
+Patient: I have this weird murmur that I hear when I try to breathe.
+Doctor: How would you describe the murmur?
+Patient: I'd say it's a little loud.
+Doctor: What kind of treatments have you been prescribed for this?
+Patient: I've been given ibuprofen.
+Doctor: How much ibuprofen should you take twice daily?
+Patient: I'll take about eight hundred M G.
+Doctor: How long should you rest the elbow?
+Patient: For the next couple weeks, I'd say a couple weeks.
+Doctor: Okay, and then you can go back to playing lacrosse?
+Patient: Yes, I'd like to do that. What else can we do?
+Doctor: I'll prescribe you ibuprofen, um, 800 M G twice daily
+Patient: Okay, that's what I'd like.
+Doctor: What else should I do?
+Patient: I'm going to take ibuprofen twice a day to help with
+Doctor: What should I do with the ibuprofen?
+Patient: I'm going to take eight hundred M G of it twice a day.
+Doctor: How long should you take the ibuprofen for?
+Patient: It should be taken for about twenty minutes.
+Doctor: Okay.
+Patient: I'm taking it three times a day.
+Doctor: How long do you take it for?
+Patient: I do it three times a day.
+Doctor: Okay.
+Patient: I also need to ice the area in twenty minute intervals.
+Doctor: How many times a day should you do this?
+Patient: Three times a day.
+Doctor: Okay, and I will order a blood test to check your hemoglobin A one
+Patient: Okay.
+Doctor: Okay, I will adjust your metformin dosage to fit your needs.
+Patient: Okay.
+Doctor: Will you be able to take the blood test?
+Patient: Yes, I will be.
+Doctor: Will you be on metformin for the blood test?
+Patient: Okay, I'll do that.
+Doctor: What are you taking for this?
+Patient: I'm taking lisinopril."
+D2N161,"Doctor: I am going to follow up your case.
+Patient: Okay.
+Doctor: Do you have any medical problems?
+Patient: I have high blood pressure and I have kidney problems.
+Doctor: Do you play any sports?
+Patient: I love football. Do you know if there is a team that is better than me
+Doctor: Do you know of any other medications that you take?
+Patient: I take Bumex. I take two M G once a day. I also take
+Doctor: Do you have any shortness of breath?
+Patient: No.
+Doctor: Any chest pain?
+Patient: No.
+Doctor: Okay, let's examine your heart.
+Patient: Okay.
+Doctor: How's your heart beating?
+Patient: It's beating at a regular rate of seventy nine beats per minute.
+Doctor: How's your blood oxygen saturation?
+Patient: Normally, it's ninety nine percent.
+Doctor: How's your heart rate?
+Patient: I'd say it's ninety nine percent. Is there any risk of
+Doctor: How's your pulse?
+Patient: It's normal.
+Doctor: How's your blood pressure?
+Patient: I'd like to get an echocardiogram done.
+Doctor: What kind of findings do you see?
+Patient: I hear a murmur.
+Doctor: Okay.
+Patient: I hear it in my right leg.
+Doctor: I will take a listen and see what we can do.
+Patient: Is it a murmur?
+Doctor: Is it a systolic ejection murmur?
+Patient: Yes.
+Doctor: What is the reason for your visit today?
+Patient: I have been having a lot of trouble with my diet. I am trying to control it
+Doctor: How are you managing your blood pressure?
+Patient: I have been taking it at home.
+Doctor: I will prescribe you Cozaar for your hypertension.
+Patient: Yes, I will take it as directed.
+Doctor: Okay.
+Patient: I will also go to the nutritionist for dietary education.
+Doctor: Okay. What foods should I avoid?
+Patient: I should avoid salty foods.
+Doctor: Okay.
+Patient: What about sugar?
+Doctor: I see here that you have high blood pressure. Do you take any foods that are high in
+Patient: No, I don't.
+Doctor: Do you have any other medical conditions that I should know about?
+Patient: I have high blood pressure.
+Doctor: How is your blood pressure controlled?
+Patient: I take Norvasc five M G once a day.
+Doctor: Do you have atrecută ultrasound?
+Patient: Yes.
+Doctor: Okay.
+Patient: I also have congestive heart failure.
+Doctor: How are you managing this?
+Patient: I am trying to eat a low fat diet.
+Doctor: Okay.
+Patient: I am trying to watch my salt intake.
+Doctor: How about sweets?
+Patient: I don't like sweets. Is there anything I should avoid?
+Doctor: I see. What about salt?
+Patient: I don't like salt.
+Doctor: Okay.
+Patient: I have been on weight watchers for a while now.
+Doctor: How are you doing?"
+D2N162,"Doctor: Good afternoon, sir. How old are you?
+Patient: Good afternoon, doctor. I'm forty two.
+Doctor: Good, thank you.
+Patient: Good afternoon, doctor.
+Doctor: Good afternoon, Gregory.
+Patient: I'm having pain in my right ankle.
+Doctor: What happened when you first started having this pain?
+Patient: I slipped and fell on the ice while I was taking out the trash.
+Doctor: How did you get hurt?
+Patient: I was unable to walk at the time of the fall and my friend had to help me
+Doctor: Okay.
+Patient: I had to be helped up.
+Doctor: Okay.
+Patient: I love playing soccer.
+Doctor: That's great.
+Patient: Yeah, I play for the local league.
+Doctor: I'd like to get some pictures of your ankle taken today.
+Patient: Sure.
+Doctor: What does the picture show?
+Patient: It shows some swelling over the lateral malleolus.
+Doctor: Okay, let me take a look.
+Patient: Okay.
+Doctor: What does it look like?
+Patient: I see. Is there any swelling?
+Doctor: I would like to see if you can take some pictures.
+Patient: Okay.
+Doctor: Okay, let me take a look at your brain.
+Patient: Okay.
+Doctor: Any pain or discomfort?
+Patient: No.
+Doctor: Okay.
+Patient: No.
+Doctor: Okay.
+Patient: I sprained my ankle.
+Doctor: What did you do for this?
+Patient: I iced it. I'm going to keep my right leg elevated.
+Doctor: What did you get today?
+Patient: I got an x ray. I didn't see any fracture. I s
+Doctor: Okay. Let's talk about your ankle.
+Patient: I'm going to keep my right leg elevated, especially when I'm sitting down.
+Doctor: Okay.
+Patient: I'm also going to ice my ankle.
+Doctor: Okay.
+Patient: Okay.
+Doctor: I see here that your x rays did not show any fracture.
+Patient: Yes, that's correct.
+Doctor: I'd like to get you some crutches for the next day or so, and
+Patient: Okay, I'll do that.
+Doctor: I'd like you to start weight bearing as soon as you feel comfortable."
+D2N163,"Doctor: Do you smoke?
+Patient: No, I don't.
+Doctor: Do you have any familyhistory of heart disease?
+Patient: What about high cholesterol?
+Doctor: Do you know of anyone with high cholesterol?
+Patient: No, not that I know of.
+Doctor: Do you enjoy being outside?
+Patient: Yes, I do.
+Doctor: Good, looks like your blood pressure is normal.
+Patient: Yeah, I am happy.
+Doctor: Have you checked your cholesterol levels recently?
+Patient: Yeah, I did. My cholesterol level is up to two hundred and one.
+Doctor: Okay.
+Patient: Okay.
+Doctor: I am looking at your chest and it looks normal. No xanthomas or
+Patient: Okay.
+Doctor: Let me take a look at your heart.
+Patient: Okay.
+Doctor: Okay.
+Patient: I want to get my cholesterol checked.
+Doctor: Okay.
+Patient: Okay.
+Doctor: What does the report say?
+Patient: Okay.
+Doctor: What other tests have you ordered?
+Patient: I have a full cholesterol panel and genetic testing.
+Doctor: What does that mean?
+Patient: It means that I have high cholesterol.
+Doctor: Do you agree with the recommendations?
+Patient: Okay.
+Doctor: What foods should I avoid?
+Patient: I should eat a variety of foods that are low in saturated fat and sugars.
+Doctor: Do you exercise?
+Patient: I follow a balanced diet with a variety of foods that are low in saturated fat and
+Doctor: How about exercise?
+Patient: I'm very active.
+Doctor: Okay.
+Patient: Thank you."
+D2N164,"Doctor: Good afternoon, ma'am.
+Patient: Good afternoon, doctor.
+Doctor: What brings you in today?
+Patient: I have high blood pressure.
+Doctor: Do you know what causes your high blood pressure?
+Patient: I don't know. I have been taking metformin for my high blood pressure.
+Doctor: I see. I will order you a blood test to check your blood pressure.
+Patient: Okay.
+Doctor: I will also order you a urine test.
+Patient: Okay.
+Doctor: Okay.
+Patient: Any nausea, vomiting, or diarrhea?
+Doctor: Any abdominal pain?
+Patient: No.
+Doctor: Okay.
+Patient: No.
+Doctor: Any swelling or rash?
+Patient: No.
+Doctor: Any chest pain or tightness?
+Patient: No.
+Doctor: Okay.
+Patient: No.
+Doctor: Okay.
+Patient: No.
+Doctor: Any shortness of breath?
+Patient: No.
+Doctor: Okay.
+Patient: I'd like to get an E K G done today.
+Doctor: Okay.
+Patient: I got it done today.
+Doctor: Did you notice any abnormalities?
+Patient: No, I didn't.
+Doctor: Okay, let me take a look at your blood pressure.
+Patient: Okay, I'll do that.
+Doctor: What does that mean, ma'am?
+Patient: I think it's an unstable angina.
+Doctor: What else have you been taking for this?
+Patient: I've been taking baby aspirin.
+Doctor: Okay.
+Patient: I've been taking it at eighty one M G twice a day.
+Doctor: Okay.
+Patient: I'm taking it as needed.
+Doctor: I see. What about the other medications?
+Patient: I'm taking metformin 500 M G twice a day and dietary modifications as
+Doctor: Okay, and how will you be reporting your readings to me?
+Patient: I'll be using MyChart. How will I do that?
+Doctor: Will you be able to log in at home?
+Patient: Yes, I'll be able to log in. What's the password?
+Doctor: It's myname.
+Patient: What's the dose?
+Doctor: I'm going to prescribe her baby aspirin at eighty one M G per day
+Patient: Okay, I understand.
+Doctor: What else are you taking?
+Patient: I will also make some dietary changes.
+Doctor: Will she be able to keep her metformin dose as is?
+Patient: Yes, I will.
+Doctor: Okay, I see.
+Patient: What are the possible side effects of the hydrochlorothiazide?
+Doctor: What other symptoms have you seen?
+Patient: I have had some swelling in my eyes.
+Doctor: Have you seen another doctor for this?
+Patient: I have seen an Ophthalmologist before.
+Doctor: Do you have her blood work done?
+Patient: Yes, I have it right here. Is it normal?
+Doctor: Yes, it's normal.
+Patient: Okay, I'm okay with that.
+Doctor: How much is the baby aspirin?
+Patient: It's eighty one M G daily.
+Doctor: Okay.
+Patient: Yes, I'm taking it.
+Doctor: Okay.
+Patient: Thank you.
+Doctor: Do you have any other medical conditions that I should know about?"
+D2N165,"Doctor: Good afternoon, ma'am. Before we begin, I just need to confirm some background information
+Patient: Good afternoon, doctor. Sure.
+Doctor: Let's start with your age, please.
+Patient: I'm thirty.
+Doctor: Let's see what's going on.
+Patient: I'm having knee pain on both sides.
+Doctor: What happened?
+Patient: I hurt my knees about six months ago.
+Doctor: Okay.
+Patient: I don't remember what happened to me.
+Doctor: What happened to you?
+Patient: I fell on my knees.
+Doctor: I see. Let me take a look.
+Patient: I think I've seen it all before.
+Doctor: I see. What seems to be the problem today?
+Patient: I've had this knee pain for about six months now.
+Doctor: How would you describe your pain?
+Patient: It's deep, achy, and it hurts when I move around.
+Doctor: How would you describe your pain in terms of intensity?
+Patient: It's pretty intense, I'd say it's a five to six point
+Doctor: I'd like to see if you can run a little bit more than a
+Patient: I'd like to run about five to six miles a day, but I can'
+Doctor: How long would you say you'd like to run?
+Patient: I'd say five to six miles a day, but I can't do more
+Doctor: How much would you say you'd like to run per day?
+Patient: I'd say I'd run about a half a mile a day,
+Doctor: How's the pain today?
+Patient: It's better today, but I can't go that far.
+Doctor: How's your pain managed?
+Patient: I've been resting and icing my knees.
+Doctor: Have you had any other surgeries in the past?
+Patient: I had a knee replacement when I was in sixth grade.
+Doctor: Okay. Let's see what we can do here.
+Patient: Okay.
+Doctor: Is it only one knee?
+Patient: Yes.
+Doctor: Any weakness or numbness?
+Patient: No, nothing like that.
+Doctor: Okay, let's see what the x rays show.
+Patient: Okay, here you go.
+Doctor: How's your heart beating?
+Patient: It's beating normally.
+Doctor: Any murmurs?
+Patient: No.
+Doctor: Okay, let's examine your legs.
+Patient: Okay.
+Doctor: Let's see how your abduction strength is.
+Patient: Um, it's three out of five.
+Doctor: Let's see how your knees feel.
+Patient: I'm having some pain, but it's not as bad as I thought.
+Doctor: Okay.
+Patient: I'm able to move my legs without any pain.
+Doctor: Are your reflexes symmetrical?
+Patient: Yes, they are.
+Doctor: Okay, and no swelling or edema.
+Patient: Yes, that's correct.
+Doctor: Okay, let's do a quick test on your legs.
+Patient: Sure.
+Doctor: Let me feel the retinas of your legs.
+Patient: Sure.
+Doctor: What kind of symptoms are you having?
+Patient: I have pain in my knees when I try to squat.
+Doctor: Is this pain in both knees?
+Patient: Yes.
+Doctor: What kind of treatments have you had?
+Patient: I have been to P T. I have been able to increase my strength and mobility in
+Doctor: Have you been able to correct any of your running mechanics?
+Patient: No, I have not.
+Doctor: I think we should start with some conservative treatment.
+Patient: Okay.
+Doctor: What kind of treatments can we do?
+Patient: Okay.
+Doctor: Let me take a look at your running mechanics."
+D2N166,"Doctor: Hello, sir. How are you feeling today?
+Patient: I'm having a lot of pain in my lower back.
+Doctor: When did it start?
+Patient: About two weeks ago. I was lifting a box of books and felt a pop.
+Doctor: How has the pain progressed since then?
+Patient: It's been getting worse. It's starting to radiate down my left leg.
+Doctor: What activities do you do to help with the pain?
+Patient: I try to exercise a few times a week, but it's not always successful
+Doctor: Are you experiencing any numbness, tingling, loss of sensation, weakness,
+Patient: No, I'm not.
+Doctor: Have you had any surgery in the past?
+Patient: No, I haven't.
+Doctor: Have you ever had any pain in the back?
+Patient: Okay.
+Doctor: What brings you in today?
+Patient: I am fifty eight.
+Doctor: Okay, let's get some background information from you.
+Patient: What do you do for a living?
+Doctor: I'm a physical therapist, so I see you as a physical therapist
+Patient: Yeah, that's what I do.
+Doctor: Great, thank you.
+Patient: Yeah, I play soccer.
+Doctor: What position do you play?
+Patient: I play in the midfield.
+Doctor: Do you have any back pain?
+Patient: I do. How bad is it?
+Doctor: It's not that bad.
+Patient: Okay. Any weakness or numbness?
+Doctor: No.
+Patient: Okay.
+Doctor: I see.
+Patient: I don't feel any pain.
+Doctor: Okay. Any pain when you bend your back?
+Patient: No.
+Doctor: Any pain when you straighten your legs?
+Patient: No.
+Doctor: Okay.
+Patient: I have a bulge in my right lumbar disc.
+Doctor: I will do an M R I today.
+Patient: Okay.
+Doctor: I will send it to you.
+Patient: Thank you.
+Doctor: Have you had any other tests done?
+Patient: I had an M R I done today.
+Doctor: Okay.
+Patient: I had a disc bulge and a disc herniation.
+Doctor: Okay.
+Patient: I also had a herniation of my right neural foraminal steno
+Doctor: Okay.
+Patient: I had a disc bulge in my lower back.
+Doctor: What does that mean?
+Patient: I have a herniated disc in my right leg. I have a weakness
+Doctor: I will do a test to see if there is any weakness in the leg.
+Patient: Okay.
+Doctor: Okay.
+Patient: I have a normal sensation in my right leg.
+Doctor: Have you had any imaging done on this leg?
+Patient: I have a bulge in my right lumbar spine.
+Doctor: What kind of bulge?
+Patient: It's a disc bulge.
+Doctor: Okay, let's see what we can do here.
+Patient: Okay, I'd like to do a corticosteroid injection.
+Doctor: Okay, with your consent, I'll do that.
+Patient: Okay, I'd like to do that.
+Doctor: Okay, I'll do it.
+Patient: Okay, I'd like to do it today.
+Doctor: What are the risks of bleeding, infection, nerve damage, blood vessel damage, reaction to the
+Patient: They're low, it's less than one percent.
+Doctor: Okay, that's good to hear."
+D2N167,"Doctor: Hello, miss. How are you feeling today?
+Patient: I'm having a lot of pain in my left knee.
+Doctor: I'm sorry to hear that. I'm going to get a quick exam today
+Patient: I'm going to get a quick exam.
+Doctor: I'm sorry to hear that.
+Patient: It started about a week ago.
+Doctor: How's the pain now?
+Patient: It's still pretty bad.
+Doctor: Is there any other treatments for this knee?
+Patient: No, I just have a kinesiology tape bandage.
+Doctor: Is there any medicine I should know about?
+Patient: I take Advil, but I don't take it.
+Doctor: Okay.
+Patient: Is there anything I should be taking for this?
+Doctor: I'd like to get some imaging done. Is there any swelling?
+Patient: Yes, there is.
+Doctor: Let me take a look. I'd like to see if there's any
+Patient: Okay.
+Doctor: Let me take a look.
+Patient: Sure.
+Doctor: What do you see?
+Patient: I see some swelling and effusion.
+Doctor: What is the range of motion of the knee?
+Patient: It is moderate.
+Doctor: Any pain when you bend or extend the knee?
+Patient: No.
+Doctor: Any pain when you do any kind of Lachman's test?
+Patient: No.
+Doctor: Any valgus or varus stress test?
+Patient: No.
+Doctor: Okay, let's see what we can do here.
+Patient: Okay.
+Doctor: What brings you in today?
+Patient: I have had x rays done, and they did not show any tear.
+Doctor: I think we should treat you conservatively. I have recommended that you put yourself in an im
+Patient: Yes, I will.
+Doctor: I will also prescribe you tramadol 50 M G to treat your pain.
+Patient: Okay.
+Doctor: I will put you in an immobilizer to provide increased support for the knee for the next
+Patient: Okay."
