@@ -8,6 +8,7 @@ import numpy as np
 import nltk
 import random
 import os
+from tqdm import tqdm
 from util import get_device_string
 import string
 
@@ -348,7 +349,7 @@ def getConversationFromReport(lines):
         nturns = max(len(nps)*2, len(sumlines)*2)
         print ("nturns="+str(nturns))
         extendonce=False
-        for sx in range(0, nturns):
+        for sx in tqdm(range(nturns)):
 
             if len(covered_nps)>0 and puzsl not in ['GREETING','AGREEMENT','DENIAL']:
                 maxn, maxv = getClosest(sumlines, tlines)

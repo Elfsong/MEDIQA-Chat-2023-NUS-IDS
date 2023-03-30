@@ -106,6 +106,9 @@ def get_available_devices():
         # torch.cuda.set_device(main_device)
     else:
         main_device = torch.device('cpu')
+    
+    # quick fix
+    main_device = torch.device('cpu')
 
     return main_device, gpu_ids
 
@@ -207,6 +210,9 @@ def get_device_string():
         main_device (torch.device): Main device (GPU 0 or CPU).
         gpu_ids (list): List of IDs of all GPUs that are available.
     """
+    # quick fix
+    return "cpu"
+
     gpu_ids = []
     if torch.cuda.is_available():
         gpu_ids += [gpu_id for gpu_id in range(torch.cuda.device_count())]
